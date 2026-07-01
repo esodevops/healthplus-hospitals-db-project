@@ -90,8 +90,8 @@ Appointments connect patients and doctors through `patient_id` and `doctor_id`. 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/esodevops/healthplus-patient-data-modernization.git
-cd healthplus-patient-data-modernization
+git clone https://github.com/esodevops/healthplus-hospitals-db-project.git
+cd healthplus-hospitals-db-project
 ```
 
 ### 2. Create and activate a virtual environment
@@ -124,7 +124,7 @@ cp .env.example .env
 Update `.env` with your PostgreSQL settings:
 
 ```env
-DB_NAME=healthplus_hospitals_db
+DB_NAME=healthplus_db
 DB_USER=postgres
 DB_PASSWORD=your_password
 DB_HOST=localhost
@@ -164,7 +164,7 @@ After the database is populated, you can run the provided SQL queries to analyze
 Execute the SQL script from the terminal:
 
 ```bash
-psql -h localhost -p 5432 -U postgres -d healthplus_hospitals_db -f sql/healthplus.sql
+psql -h localhost -p 5432 -U postgres -d healthplus_db -f sql/healthplus.sql
 ```
 
 When prompted, enter your PostgreSQL password.
