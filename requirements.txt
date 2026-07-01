@@ -1,0 +1,6 @@
+ipykernel==7.3.0
+numpy
+pandas==3.0.3
+psycopg2-binary
+sqlalchemy
+python-dotenv

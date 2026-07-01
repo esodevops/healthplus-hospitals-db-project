@@ -1,0 +1,1501 @@
+doctor_id,doctor_name,specialty,branch
+D0001,Dr. Peter Balogun,orthopedics,Kano Care
+D0002,Dr. Esther Usman,pediatrics,LAGOS CENTRAL
+D0003,Dr. Ada Okafor,Orthopedics,ABUJA NORTH
+D0004,Dr. Chinedu Uche,Emergency Medicine,Abuja North
+D0005,Dr. Ibrahim Sani,Cardiology,
+D0006,Dr. Blessing Bello,Pediatrics,Lagos Central
+D0007,Dr. Grace Ojo,,PORT HARCOURT MAIN
+D0008,Dr. Tunde Sani,pediatrics,Kano Care
+D0009,Dr. Musa Nwosu,orthopedics,ABUJA NORTH
+D0010,Dr. Sarah Ojo,Radiology,Ibadan West
+D0011,Dr. Ngozi Adewale,Emergency Medicine,Kano Care
+D0012,Dr. Chinedu Ibrahim,cardiology,Kano Care
+D0013,Dr. Bola Ojo,Radiology,Enugu East
+D0014,Dr. John Onyeka,Neurology,LAGOS CENTRAL
+D0015,Dr. Mary Eze,General Medicine,LAGOS CENTRAL
+D0016,Dr. Ngozi Garba,dermatology,ABUJA NORTH
+D0017,Dr. Mary Ojo,Dermatology,Port Harcourt Main
+D0018,Dr. Victor Eze,pediatrics,Abuja North
+D0019,Dr. Ngozi Ogunleye,Orthopedics,Ibadan West
+D0020,Dr. Amaka Chukwu,,Kano Care
+D0021,Dr. Abdul Musa,Radiology,Ibadan West
+D0022,Dr. Amaka Usman,orthopedics,Lagos Central
+D0023,Dr. Ibrahim Garba,General Medicine,ABUJA NORTH
+D0024,Dr. Sarah Bello,pediatrics,
+D0025,Dr. Kemi Musa,dermatology,Kano Care
+D0026,Dr. Mary Ojo,orthopedics,PORT HARCOURT MAIN
+D0027,Dr. Chinedu Adeyemi,Family Medicine,ABUJA NORTH
+D0028,Dr. Musa Nwosu,Radiology,Lagos Central
+D0029,Dr. Fatima Nwosu,cardiology,ABUJA NORTH
+D0030,Dr. Chinedu Usman,general medicine,
+D0031,Dr. Blessing Adewale,Emergency Medicine,
+D0032,Dr. David Ojo,Cardiology,
+D0033,Dr. John Ogunleye,orthopedics,PORT HARCOURT MAIN
+D0034,Dr. Ngozi Garba,pediatrics,Kano Care
+D0035,Dr. Fatima Bello,,Enugu East
+D0036,Dr. Ada Sani,Emergency Medicine,Kano Care
+D0037,Dr. Samuel Okafor,general medicine,
+D0038,Dr. Chinedu Adewale,Neurology,
+D0039,Dr. Mary Chukwu,cardiology,LAGOS CENTRAL
+D0040,Dr. John Ibrahim,Cardiology,Abuja North
+D0041,Dr. Ada Onyeka,Cardiology,Port Harcourt Main
+D0042,Dr. Victor Sani,pediatrics,LAGOS CENTRAL
+D0043,Dr. Chinedu Abubakar,Neurology,Ibadan West
+D0044,Dr. Kemi Afolabi,General Medicine,Ibadan West
+D0045,Dr. John Chukwu,Dermatology,Enugu East
+D0046,Dr. Samuel Okafor,orthopedics,Ibadan West
+D0047,Dr. Hannah Eze,Orthopedics,
+D0048,Dr. Victor Onyeka,general medicine,Lagos Central
+D0049,Dr. John Balogun,Pediatrics,
+D0050,Dr. Tolu Johnson,pediatrics,PORT HARCOURT MAIN
+D0051,Dr. David Okafor,Dermatology,Lagos Central
+D0052,Dr. Sarah Abubakar,Cardiology,Enugu East
+D0053,Dr. Blessing Garba,orthopedics,Ibadan West
+D0054,Dr. Hannah Garba,,
+D0055,Dr. Daniel Ogunleye,,Port Harcourt Main
+D0056,Dr. Samuel Ibrahim,general medicine,Ibadan West
+D0057,Dr. Musa Musa,Pediatrics,PORT HARCOURT MAIN
+D0058,Dr. Grace Ojo,Radiology,PORT HARCOURT MAIN
+D0059,Dr. Ngozi Johnson,Emergency Medicine,Port Harcourt Main
+D0060,Dr. Sarah Onyeka,Dermatology,PORT HARCOURT MAIN
+D0061,Dr. Ibrahim Eze,cardiology,
+D0062,Dr. Daniel Usman,,
+D0063,Dr. Ada Bello,general medicine,
+D0064,Dr. Mary Abubakar,,Abuja North
+D0065,Dr. Sarah Usman,general medicine,Kano Care
+D0066,Dr. Samuel Garba,Dermatology,
+D0067,Dr. Mercy Ibrahim,Family Medicine,PORT HARCOURT MAIN
+D0068,Dr. Tolu Balogun,Dermatology,Enugu East
+D0069,Dr. Ada Adewale,Orthopedics,
+D0070,Dr. Samuel Balogun,Family Medicine,Lagos Central
+D0071,Dr. Fatima Ibrahim,dermatology,
+D0072,Dr. Hannah Onyeka,cardiology,
+D0073,Dr. Bola Ogunleye,general medicine,PORT HARCOURT MAIN
+D0074,Dr. Musa Bello,,Port Harcourt Main
+D0075,Dr. Abdul Johnson,general medicine,Kano Care
+D0076,Dr. Daniel Chukwu,,Kano Care
+D0077,Dr. Kemi Uche,cardiology,Kano Care
+D0078,Dr. Peter Musa,,ABUJA NORTH
+D0079,Dr. David Balogun,Obstetrics,ABUJA NORTH
+D0080,Dr. Victor Ojo,General Medicine,ABUJA NORTH
+D0081,Dr. Mary Balogun,cardiology,
+D0082,Dr. Blessing Adeyemi,dermatology,ABUJA NORTH
+D0083,Dr. Peter Nwosu,Dermatology,LAGOS CENTRAL
+D0084,Dr. Zainab Johnson,general medicine,LAGOS CENTRAL
+D0085,Dr. Abdul Ojo,general medicine,Enugu East
+D0086,Dr. Sarah Abubakar,General Medicine,Port Harcourt Main
+D0087,Dr. Michael Chukwu,Emergency Medicine,
+D0088,Dr. Ada Adewale,Dermatology,Port Harcourt Main
+D0089,Dr. Hannah Johnson,,LAGOS CENTRAL
+D0090,Dr. Kemi Ogunleye,Family Medicine,Enugu East
+D0091,Dr. Tunde Ogunleye,,
+D0092,Dr. Yusuf Okafor,Family Medicine,Enugu East
+D0093,Dr. Ibrahim Adeyemi,Family Medicine,Enugu East
+D0094,Dr. Kemi Sani,cardiology,LAGOS CENTRAL
+D0095,Dr. Mercy Eze,dermatology,PORT HARCOURT MAIN
+D0096,Dr. Abdul Ogunleye,,LAGOS CENTRAL
+D0097,Dr. Zainab Garba,cardiology,Lagos Central
+D0098,Dr. Blessing Uche,,LAGOS CENTRAL
+D0099,Dr. Michael Okafor,Pediatrics,ABUJA NORTH
+D0100,Dr. Aisha Onyeka,,PORT HARCOURT MAIN
+D0101,Dr. Ibrahim Eze,orthopedics,
+D0102,Dr. Fatima Abubakar,pediatrics,Lagos Central
+D0103,Dr. Michael Sani,Obstetrics,Abuja North
+D0104,Dr. Abdul Usman,,PORT HARCOURT MAIN
+D0105,Dr. Tolu Onyeka,General Medicine,Abuja North
+D0106,Dr. Mary Onyeka,Radiology,
+D0107,Dr. Aisha Bello,Radiology,Port Harcourt Main
+D0108,Dr. Mary Eze,Cardiology,Lagos Central
+D0109,Dr. Victor Ogunleye,Obstetrics,Ibadan West
+D0110,Dr. Sarah Usman,Cardiology,Port Harcourt Main
+D0111,Dr. Hannah Adewale,Obstetrics,PORT HARCOURT MAIN
+D0112,Dr. Tolu Chukwu,Pediatrics,PORT HARCOURT MAIN
+D0113,Dr. Tolu Sani,Family Medicine,Kano Care
+D0114,Dr. Daniel Garba,dermatology,ABUJA NORTH
+D0115,Dr. Zainab Afolabi,Emergency Medicine,Port Harcourt Main
+D0116,Dr. Ada Adewale,Family Medicine,PORT HARCOURT MAIN
+D0117,Dr. Bola Bello,Neurology,LAGOS CENTRAL
+D0118,Dr. Zainab Balogun,Orthopedics,LAGOS CENTRAL
+D0119,Dr. Blessing Nwosu,Emergency Medicine,ABUJA NORTH
+D0120,Dr. Esther Adeyemi,Neurology,ABUJA NORTH
+D0121,Dr. Victor Usman,orthopedics,
+D0122,Dr. Mercy Ibrahim,,ABUJA NORTH
+D0123,Dr. Yusuf Balogun,Neurology,Kano Care
+D0124,Dr. Emeka Garba,Pediatrics,Kano Care
+D0125,Dr. Hannah Nwosu,Radiology,
+D0126,Dr. Victor Ibrahim,general medicine,Enugu East
+D0127,Dr. Mercy Usman,Orthopedics,Ibadan West
+D0128,Dr. Victor Nwosu,Orthopedics,
+D0129,Dr. Emeka Uche,pediatrics,Kano Care
+D0130,Dr. Michael Uche,dermatology,
+D0131,Dr. Mercy Garba,Dermatology,
+D0132,Dr. Tolu Eze,Orthopedics,Ibadan West
+D0133,Dr. Abdul Johnson,,Port Harcourt Main
+D0134,Dr. Grace Okafor,Radiology,Ibadan West
+D0135,Dr. Amaka Adeyemi,Cardiology,LAGOS CENTRAL
+D0136,Dr. Abdul Bello,dermatology,ABUJA NORTH
+D0137,Dr. Hannah Balogun,,Enugu East
+D0138,Dr. Amaka Garba,Emergency Medicine,Enugu East
+D0139,Dr. Ibrahim Uche,general medicine,
+D0140,Dr. Michael Chukwu,cardiology,ABUJA NORTH
+D0141,Dr. Musa Afolabi,General Medicine,Lagos Central
+D0142,Dr. Peter Onyeka,Orthopedics,LAGOS CENTRAL
+D0143,Dr. Esther Ojo,Emergency Medicine,
+D0144,Dr. Samuel Sani,dermatology,Ibadan West
+D0145,Dr. Grace Chukwu,dermatology,Abuja North
+D0146,Dr. Samuel Usman,Emergency Medicine,Kano Care
+D0147,Dr. Grace Okafor,Orthopedics,Abuja North
+D0148,Dr. Abdul Garba,Emergency Medicine,ABUJA NORTH
+D0149,Dr. Bola Musa,Orthopedics,Lagos Central
+D0150,Dr. Fatima Ibrahim,Pediatrics,
+D0151,Dr. Musa Onyeka,General Medicine,Enugu East
+D0152,Dr. Zainab Onyeka,Obstetrics,Ibadan West
+D0153,Dr. Ibrahim Adeyemi,Pediatrics,
+D0154,Dr. Samuel Ogunleye,Neurology,
+D0155,Dr. Musa Ojo,dermatology,Ibadan West
+D0156,Dr. Grace Ojo,Cardiology,Kano Care
+D0157,Dr. David Ogunleye,Dermatology,Lagos Central
+D0158,Dr. Emeka Okafor,,
+D0159,Dr. Aisha Ojo,cardiology,Port Harcourt Main
+D0160,Dr. David Sani,Emergency Medicine,Enugu East
+D0161,Dr. Daniel Balogun,dermatology,Enugu East
+D0162,Dr. Victor Sani,Orthopedics,ABUJA NORTH
+D0163,Dr. John Eze,dermatology,Abuja North
+D0164,Dr. Tunde Balogun,,Ibadan West
+D0165,Dr. Mary Balogun,General Medicine,
+D0166,Dr. Amaka Ojo,cardiology,Abuja North
+D0167,Dr. Fatima Okafor,General Medicine,
+D0168,Dr. Michael Johnson,Orthopedics,Abuja North
+D0169,Dr. Emeka Adeyemi,Family Medicine,Enugu East
+D0170,Dr. Mercy Ogunleye,Dermatology,Kano Care
+D0171,Dr. Daniel Abubakar,Orthopedics,Lagos Central
+D0172,Dr. Blessing Abubakar,Orthopedics,ABUJA NORTH
+D0173,Dr. Blessing Abubakar,Neurology,LAGOS CENTRAL
+D0174,Dr. Zainab Usman,Cardiology,Port Harcourt Main
+D0175,Dr. Fatima Ogunleye,dermatology,Enugu East
+D0176,Dr. Ibrahim Garba,Orthopedics,Kano Care
+D0177,Dr. Daniel Ibrahim,Orthopedics,LAGOS CENTRAL
+D0178,Dr. Daniel Johnson,Obstetrics,LAGOS CENTRAL
+D0179,Dr. Esther Ojo,Orthopedics,ABUJA NORTH
+D0180,Dr. Ada Ibrahim,General Medicine,Enugu East
+D0181,Dr. Peter Usman,Cardiology,LAGOS CENTRAL
+D0182,Dr. Sarah Adewale,Pediatrics,Abuja North
+D0183,Dr. Grace Bello,Pediatrics,LAGOS CENTRAL
+D0184,Dr. Daniel Sani,Neurology,Ibadan West
+D0185,Dr. Kemi Ogunleye,Obstetrics,Ibadan West
+D0186,Dr. John Onyeka,Family Medicine,
+D0187,Dr. Bola Ibrahim,dermatology,Enugu East
+D0188,Dr. Amaka Okafor,Family Medicine,Ibadan West
+D0189,Dr. David Musa,Obstetrics,Lagos Central
+D0190,Dr. David Nwosu,Emergency Medicine,LAGOS CENTRAL
+D0191,Dr. Ada Garba,general medicine,Abuja North
+D0192,Dr. Sarah Adewale,Cardiology,Kano Care
+D0193,Dr. Aisha Bello,Family Medicine,PORT HARCOURT MAIN
+D0194,Dr. Musa Okafor,Dermatology,Lagos Central
+D0195,Dr. Victor Abubakar,pediatrics,Enugu East
+D0196,Dr. Ada Abubakar,dermatology,Ibadan West
+,Dr. Michael Abubakar,,Enugu East
+D0198,Dr. Bola Balogun,Cardiology,Lagos Central
+D0199,Dr. Sarah Adeyemi,Dermatology,LAGOS CENTRAL
+D0200,Dr. Michael Nwosu,orthopedics,Lagos Central
+D0201,Dr. Esther Johnson,orthopedics,Lagos Central
+D0202,Dr. Yusuf Nwosu,Dermatology,Port Harcourt Main
+D0203,Dr. Ibrahim Sani,Obstetrics,Ibadan West
+D0204,Dr. Hannah Uche,Pediatrics,ABUJA NORTH
+D0205,Dr. Esther Adeyemi,,Abuja North
+D0206,Dr. Daniel Afolabi,cardiology,Lagos Central
+D0207,Dr. Kemi Sani,Obstetrics,
+D0208,Dr. Fatima Adewale,Pediatrics,Lagos Central
+D0209,Dr. Abdul Onyeka,Pediatrics,LAGOS CENTRAL
+D0210,Dr. Victor Adeyemi,Pediatrics,ABUJA NORTH
+D0211,Dr. Sarah Ogunleye,pediatrics,Kano Care
+D0212,Dr. Esther Ojo,Emergency Medicine,Kano Care
+D0213,Dr. Mary Afolabi,Family Medicine,Enugu East
+D0214,Dr. Yusuf Johnson,general medicine,
+D0215,Dr. Chinedu Onyeka,,LAGOS CENTRAL
+,Dr. Ngozi Onyeka,Emergency Medicine,LAGOS CENTRAL
+D0217,Dr. Grace Adewale,general medicine,LAGOS CENTRAL
+D0218,Dr. David Eze,Neurology,LAGOS CENTRAL
+D0219,Dr. John Johnson,pediatrics,Abuja North
+D0220,Dr. Tunde Adeyemi,General Medicine,Abuja North
+D0221,Dr. John Sani,Obstetrics,LAGOS CENTRAL
+D0222,Dr. Yusuf Adewale,Pediatrics,
+,Dr. Samuel Uche,Pediatrics,
+D0224,Dr. Daniel Okafor,Radiology,Port Harcourt Main
+D0225,Dr. Amaka Afolabi,,Lagos Central
+D0226,Dr. Kemi Garba,,ABUJA NORTH
+D0227,Dr. Mercy Okafor,orthopedics,Port Harcourt Main
+D0228,Dr. Bola Afolabi,Dermatology,Abuja North
+D0229,Dr. Sarah Ibrahim,pediatrics,Kano Care
+D0230,Dr. Zainab Adewale,orthopedics,Ibadan West
+D0231,Dr. Esther Ibrahim,cardiology,LAGOS CENTRAL
+D0232,Dr. Bola Uche,Neurology,Port Harcourt Main
+D0233,Dr. Mary Onyeka,Dermatology,Ibadan West
+D0234,Dr. Kemi Afolabi,orthopedics,Kano Care
+D0235,Dr. Ada Garba,Neurology,Enugu East
+D0236,Dr. Mary Okafor,Dermatology,LAGOS CENTRAL
+D0237,Dr. Daniel Nwosu,,LAGOS CENTRAL
+D0238,Dr. Esther Ojo,Dermatology,PORT HARCOURT MAIN
+D0239,Dr. David Musa,,Kano Care
+D0240,Dr. Musa Chukwu,Family Medicine,ABUJA NORTH
+D0241,Dr. Daniel Sani,general medicine,
+D0242,Dr. Tolu Balogun,Obstetrics,Enugu East
+D0243,Dr. Emeka Sani,,Abuja North
+D0244,Dr. Grace Onyeka,Cardiology,Abuja North
+D0245,Dr. Victor Ogunleye,pediatrics,Kano Care
+D0246,Dr. Zainab Uche,pediatrics,ABUJA NORTH
+D0247,Dr. Tunde Uche,dermatology,
+D0248,Dr. Sarah Ogunleye,Obstetrics,
+D0249,Dr. Mary Ogunleye,Obstetrics,PORT HARCOURT MAIN
+D0250,Dr. Amaka Adeyemi,general medicine,
+D0251,Dr. Emeka Garba,,Enugu East
+D0252,Dr. Fatima Abubakar,general medicine,Port Harcourt Main
+D0253,Dr. Zainab Eze,Emergency Medicine,PORT HARCOURT MAIN
+D0254,Dr. Amaka Nwosu,Dermatology,Abuja North
+D0255,Dr. Grace Adeyemi,Radiology,Kano Care
+D0256,Dr. Ada Onyeka,Obstetrics,
+D0257,Dr. Grace Johnson,Obstetrics,Abuja North
+D0258,Dr. Daniel Chukwu,general medicine,Lagos Central
+D0259,Dr. Mercy Abubakar,Emergency Medicine,
+D0260,Dr. Ada Chukwu,Cardiology,Enugu East
+D0261,Dr. Ibrahim Ojo,,ABUJA NORTH
+D0262,Dr. Michael Uche,Family Medicine,Ibadan West
+D0263,Dr. Aisha Johnson,Radiology,Kano Care
+D0264,Dr. Esther Ibrahim,Obstetrics,PORT HARCOURT MAIN
+D0265,Dr. Hannah Bello,general medicine,ABUJA NORTH
+D0266,Dr. Kemi Okafor,Orthopedics,ABUJA NORTH
+D0267,Dr. Grace Okafor,,Lagos Central
+D0268,Dr. Ada Ogunleye,cardiology,ABUJA NORTH
+D0269,Dr. Esther Onyeka,Neurology,
+D0270,Dr. Samuel Ogunleye,Dermatology,LAGOS CENTRAL
+D0271,Dr. Tolu Afolabi,orthopedics,Lagos Central
+D0272,Dr. Mercy Garba,general medicine,Lagos Central
+D0273,Dr. Emeka Uche,Obstetrics,
+D0274,Dr. Esther Nwosu,Dermatology,Lagos Central
+D0275,Dr. Mercy Bello,Orthopedics,ABUJA NORTH
+D0276,Dr. Michael Uche,Radiology,Enugu East
+D0277,Dr. Samuel Uche,General Medicine,Abuja North
+D0278,Dr. Ngozi Garba,,PORT HARCOURT MAIN
+D0279,Dr. Peter Sani,Dermatology,Ibadan West
+D0280,Dr. David Uche,orthopedics,Enugu East
+D0281,Dr. Chinedu Garba,,
+D0282,Dr. Aisha Musa,,Lagos Central
+D0283,Dr. Ngozi Ogunleye,cardiology,LAGOS CENTRAL
+D0284,Dr. Mary Bello,dermatology,Kano Care
+D0285,Dr. Yusuf Eze,Family Medicine,Enugu East
+D0286,Dr. Hannah Ibrahim,Neurology,Lagos Central
+D0287,Dr. Hannah Eze,Obstetrics,Enugu East
+D0288,Dr. Bola Nwosu,Neurology,Port Harcourt Main
+D0289,Dr. Abdul Abubakar,General Medicine,ABUJA NORTH
+D0290,Dr. Yusuf Bello,Obstetrics,
+D0291,Dr. Blessing Abubakar,pediatrics,Lagos Central
+D0292,Dr. Hannah Sani,Emergency Medicine,ABUJA NORTH
+D0293,Dr. Abdul Okafor,Cardiology,LAGOS CENTRAL
+D0294,Dr. Mary Abubakar,,Abuja North
+D0295,Dr. Mary Chukwu,cardiology,Abuja North
+D0296,Dr. Emeka Ogunleye,Pediatrics,Kano Care
+D0297,Dr. Esther Bello,General Medicine,Port Harcourt Main
+D0298,Dr. Grace Balogun,,Enugu East
+D0299,Dr. Emeka Bello,Cardiology,
+D0300,Dr. Ibrahim Usman,Pediatrics,PORT HARCOURT MAIN
+D0301,Dr. Ada Ibrahim,Radiology,Ibadan West
+D0302,Dr. Abdul Ogunleye,cardiology,Lagos Central
+D0303,Dr. David Garba,Pediatrics,Enugu East
+D0304,Dr. Peter Usman,general medicine,PORT HARCOURT MAIN
+D0305,Dr. Tunde Chukwu,Dermatology,
+D0306,Dr. Kemi Ojo,Cardiology,Enugu East
+D0307,Dr. Grace Balogun,Neurology,Abuja North
+D0308,Dr. Yusuf Uche,Dermatology,
+D0309,Dr. Blessing Eze,Emergency Medicine,PORT HARCOURT MAIN
+D0310,Dr. Tunde Balogun,General Medicine,Abuja North
+D0311,Dr. Chinedu Garba,pediatrics,
+D0312,Dr. Sarah Ogunleye,Family Medicine,Port Harcourt Main
+D0313,Dr. Zainab Ibrahim,Dermatology,Port Harcourt Main
+D0314,Dr. Yusuf Adewale,Family Medicine,Lagos Central
+D0315,Dr. David Okafor,,
+D0316,Dr. Blessing Balogun,,PORT HARCOURT MAIN
+D0317,Dr. Musa Afolabi,Family Medicine,PORT HARCOURT MAIN
+D0318,Dr. Aisha Adeyemi,Neurology,
+D0319,Dr. Tunde Abubakar,orthopedics,
+D0320,Dr. Ibrahim Sani,dermatology,Kano Care
+D0321,Dr. Samuel Uche,general medicine,Ibadan West
+D0322,Dr. Mercy Johnson,General Medicine,Abuja North
+D0323,Dr. Tunde Ogunleye,general medicine,Port Harcourt Main
+D0324,Dr. Chinedu Musa,Neurology,Ibadan West
+D0325,Dr. Blessing Eze,General Medicine,Port Harcourt Main
+D0326,Dr. David Nwosu,pediatrics,ABUJA NORTH
+D0327,Dr. Yusuf Bello,Neurology,Lagos Central
+D0328,Dr. David Ibrahim,Emergency Medicine,Port Harcourt Main
+D0329,Dr. Fatima Adeyemi,Cardiology,ABUJA NORTH
+D0330,Dr. Amaka Afolabi,Orthopedics,
+D0331,Dr. Hannah Ogunleye,,
+D0332,Dr. Bola Usman,,Kano Care
+D0333,Dr. Mary Adeyemi,,ABUJA NORTH
+D0334,Dr. Ngozi Johnson,orthopedics,
+D0335,Dr. Ibrahim Eze,Cardiology,Lagos Central
+D0336,Dr. Fatima Ogunleye,cardiology,Abuja North
+D0337,Dr. John Sani,,Port Harcourt Main
+D0338,Dr. Blessing Chukwu,Orthopedics,Enugu East
+D0339,Dr. Samuel Eze,Family Medicine,Abuja North
+D0340,Dr. Zainab Adeyemi,Radiology,
+D0341,Dr. Grace Ojo,dermatology,Ibadan West
+D0342,Dr. Sarah Adeyemi,Neurology,Ibadan West
+D0343,Dr. Tolu Musa,Neurology,PORT HARCOURT MAIN
+D0344,Dr. Sarah Ogunleye,Radiology,
+D0345,Dr. Esther Eze,orthopedics,PORT HARCOURT MAIN
+D0346,Dr. Esther Usman,,Lagos Central
+D0347,Dr. Samuel Eze,Obstetrics,Enugu East
+D0348,Dr. Peter Chukwu,Obstetrics,Abuja North
+D0349,Dr. Musa Sani,Obstetrics,Abuja North
+D0350,Dr. Yusuf Bello,Neurology,
+D0351,Dr. Aisha Ogunleye,Family Medicine,ABUJA NORTH
+D0352,Dr. Ada Okafor,,
+D0353,Dr. John Ojo,General Medicine,PORT HARCOURT MAIN
+D0354,Dr. Tolu Balogun,pediatrics,Ibadan West
+D0355,Dr. Mercy Onyeka,,LAGOS CENTRAL
+D0356,Dr. Bola Usman,Pediatrics,Ibadan West
+D0357,Dr. Tolu Adewale,cardiology,Abuja North
+D0358,Dr. Victor Nwosu,cardiology,Kano Care
+D0359,Dr. Ada Eze,cardiology,
+D0360,Dr. Ibrahim Ibrahim,Radiology,Lagos Central
+D0361,Dr. Ada Ibrahim,cardiology,Kano Care
+D0362,Dr. Tunde Uche,cardiology,Abuja North
+D0363,Dr. Hannah Musa,dermatology,ABUJA NORTH
+D0364,Dr. Blessing Ibrahim,Obstetrics,LAGOS CENTRAL
+D0365,Dr. Fatima Afolabi,General Medicine,Enugu East
+D0366,Dr. Ada Adewale,,Ibadan West
+D0367,Dr. Amaka Johnson,Emergency Medicine,Port Harcourt Main
+D0368,Dr. Zainab Ojo,orthopedics,Lagos Central
+D0369,Dr. Bola Ogunleye,Neurology,Ibadan West
+D0370,Dr. Esther Adeyemi,,Abuja North
+D0371,Dr. Daniel Bello,,
+D0372,Dr. Esther Uche,cardiology,Kano Care
+D0373,Dr. Abdul Chukwu,general medicine,Port Harcourt Main
+D0374,Dr. Yusuf Musa,Neurology,ABUJA NORTH
+D0375,Dr. Ada Ibrahim,dermatology,Ibadan West
+D0376,Dr. Michael Ojo,Radiology,Abuja North
+D0377,Dr. Aisha Balogun,Radiology,Ibadan West
+D0378,Dr. Tunde Adewale,,LAGOS CENTRAL
+D0379,Dr. Grace Abubakar,dermatology,Enugu East
+D0380,Dr. Mercy Uche,General Medicine,Lagos Central
+D0381,Dr. Fatima Adeyemi,General Medicine,Ibadan West
+D0382,Dr. Bola Usman,cardiology,Abuja North
+D0383,Dr. Abdul Okafor,Orthopedics,Abuja North
+D0384,Dr. Musa Johnson,Emergency Medicine,Lagos Central
+D0385,Dr. Tolu Bello,Orthopedics,PORT HARCOURT MAIN
+D0386,Dr. Samuel Usman,,PORT HARCOURT MAIN
+D0387,Dr. Daniel Ogunleye,Pediatrics,Kano Care
+D0388,Dr. Sarah Sani,General Medicine,Ibadan West
+D0389,Dr. Abdul Johnson,Emergency Medicine,Ibadan West
+D0390,Dr. Esther Balogun,Emergency Medicine,Ibadan West
+D0391,Dr. Ada Ogunleye,Orthopedics,Abuja North
+D0392,Dr. Mary Usman,Cardiology,Lagos Central
+,Dr. Blessing Afolabi,General Medicine,
+D0394,Dr. Blessing Musa,Obstetrics,Enugu East
+D0395,Dr. Kemi Ibrahim,orthopedics,
+D0396,Dr. Blessing Johnson,,Port Harcourt Main
+D0397,Dr. Abdul Johnson,cardiology,LAGOS CENTRAL
+D0398,Dr. Michael Chukwu,Pediatrics,ABUJA NORTH
+D0399,Dr. Emeka Bello,,PORT HARCOURT MAIN
+D0400,Dr. Peter Chukwu,,ABUJA NORTH
+D0401,Dr. Hannah Onyeka,Radiology,PORT HARCOURT MAIN
+D0402,Dr. Amaka Chukwu,Orthopedics,Ibadan West
+D0403,Dr. Victor Adeyemi,Obstetrics,
+D0404,Dr. Daniel Eze,,ABUJA NORTH
+D0405,Dr. Fatima Okafor,Dermatology,
+D0406,Dr. Samuel Ibrahim,,LAGOS CENTRAL
+D0407,Dr. Hannah Garba,Pediatrics,
+D0408,Dr. Ada Chukwu,Obstetrics,Kano Care
+D0409,Dr. Tunde Adeyemi,General Medicine,ABUJA NORTH
+D0410,Dr. Sarah Afolabi,Cardiology,Ibadan West
+D0411,Dr. Esther Musa,,Enugu East
+D0412,Dr. Musa Ibrahim,Dermatology,PORT HARCOURT MAIN
+D0413,Dr. Esther Ibrahim,pediatrics,Port Harcourt Main
+D0414,Dr. Mary Onyeka,Family Medicine,
+D0415,Dr. Chinedu Abubakar,orthopedics,Abuja North
+D0416,Dr. Abdul Uche,General Medicine,LAGOS CENTRAL
+D0417,Dr. Fatima Garba,dermatology,ABUJA NORTH
+D0418,Dr. John Johnson,orthopedics,
+D0419,Dr. Aisha Onyeka,Emergency Medicine,Port Harcourt Main
+D0420,Dr. Mary Onyeka,cardiology,Enugu East
+D0421,Dr. Michael Abubakar,Emergency Medicine,Kano Care
+D0422,Dr. Hannah Okafor,,
+D0423,Dr. Abdul Usman,,PORT HARCOURT MAIN
+D0424,Dr. Tolu Uche,Neurology,
+D0425,Dr. Bola Johnson,Dermatology,Lagos Central
+D0426,Dr. Ada Okafor,Orthopedics,
+D0427,Dr. Abdul Adewale,General Medicine,
+D0428,Dr. Blessing Ojo,Pediatrics,Abuja North
+D0429,Dr. Mercy Eze,Dermatology,ABUJA NORTH
+D0430,Dr. Kemi Ojo,General Medicine,Kano Care
+D0431,Dr. Tunde Adewale,Family Medicine,PORT HARCOURT MAIN
+D0432,Dr. Zainab Usman,,LAGOS CENTRAL
+D0433,Dr. Samuel Nwosu,dermatology,Port Harcourt Main
+D0434,Dr. Michael Balogun,,Lagos Central
+D0435,Dr. Bola Nwosu,dermatology,ABUJA NORTH
+D0436,Dr. Aisha Musa,Dermatology,PORT HARCOURT MAIN
+D0437,Dr. Daniel Chukwu,Obstetrics,Ibadan West
+D0438,Dr. Grace Ibrahim,Cardiology,Kano Care
+D0439,Dr. Abdul Balogun,General Medicine,ABUJA NORTH
+D0440,Dr. Fatima Johnson,pediatrics,
+D0441,Dr. Zainab Garba,,
+D0442,Dr. Peter Nwosu,Cardiology,Ibadan West
+D0443,Dr. Esther Okafor,Obstetrics,PORT HARCOURT MAIN
+D0444,Dr. Tunde Chukwu,,
+D0445,Dr. Sarah Johnson,Neurology,Kano Care
+D0446,Dr. Daniel Adewale,,Abuja North
+D0447,Dr. Tunde Ogunleye,,LAGOS CENTRAL
+D0448,Dr. Michael Balogun,Obstetrics,Abuja North
+D0449,Dr. Yusuf Nwosu,pediatrics,Enugu East
+D0450,Dr. Tunde Garba,Neurology,ABUJA NORTH
+D0451,Dr. Kemi Sani,,Lagos Central
+D0452,Dr. John Abubakar,orthopedics,Kano Care
+D0453,Dr. Chinedu Johnson,pediatrics,
+D0454,Dr. Amaka Balogun,general medicine,Ibadan West
+D0455,Dr. Emeka Johnson,Orthopedics,Ibadan West
+D0456,Dr. Tunde Bello,Emergency Medicine,Abuja North
+D0457,Dr. Esther Bello,General Medicine,
+D0458,Dr. David Adewale,,Abuja North
+D0459,Dr. Fatima Afolabi,Radiology,Lagos Central
+D0460,Dr. Mercy Okafor,Orthopedics,Port Harcourt Main
+D0461,Dr. Aisha Balogun,dermatology,ABUJA NORTH
+D0462,Dr. Esther Abubakar,cardiology,Ibadan West
+D0463,Dr. Tolu Nwosu,general medicine,LAGOS CENTRAL
+D0464,Dr. Tunde Musa,Dermatology,
+D0465,Dr. Ibrahim Sani,Family Medicine,Kano Care
+D0466,Dr. Ada Johnson,Pediatrics,PORT HARCOURT MAIN
+D0467,Dr. Samuel Ibrahim,orthopedics,Enugu East
+D0468,Dr. Tolu Johnson,Orthopedics,
+D0469,Dr. Victor Onyeka,Dermatology,Kano Care
+D0470,Dr. Ngozi Sani,Family Medicine,Lagos Central
+D0471,Dr. Grace Ogunleye,cardiology,PORT HARCOURT MAIN
+D0472,Dr. Kemi Uche,cardiology,PORT HARCOURT MAIN
+D0473,Dr. Mary Ogunleye,general medicine,
+D0474,Dr. Grace Garba,general medicine,Lagos Central
+D0475,Dr. Hannah Ojo,,
+D0476,Dr. Musa Bello,orthopedics,Ibadan West
+D0477,Dr. Kemi Nwosu,Family Medicine,Port Harcourt Main
+D0478,Dr. Kemi Eze,,ABUJA NORTH
+D0479,Dr. Amaka Ojo,Emergency Medicine,
+D0480,Dr. Emeka Nwosu,Obstetrics,Lagos Central
+D0481,Dr. Blessing Usman,Cardiology,Lagos Central
+D0482,Dr. Zainab Adewale,,Port Harcourt Main
+D0483,Dr. Emeka Balogun,Orthopedics,
+D0484,Dr. Daniel Onyeka,Radiology,ABUJA NORTH
+D0485,Dr. Daniel Uche,cardiology,
+D0486,Dr. Ngozi Balogun,pediatrics,Lagos Central
+D0487,Dr. Sarah Musa,General Medicine,Kano Care
+D0488,Dr. John Chukwu,cardiology,Kano Care
+D0489,Dr. Mercy Onyeka,dermatology,Lagos Central
+D0490,Dr. Aisha Usman,Obstetrics,Port Harcourt Main
+D0491,Dr. Yusuf Nwosu,orthopedics,
+D0492,Dr. David Afolabi,cardiology,
+D0493,Dr. Peter Musa,Family Medicine,Ibadan West
+D0494,Dr. Tunde Afolabi,Radiology,Port Harcourt Main
+D0495,Dr. Kemi Okafor,Obstetrics,
+D0496,Dr. Bola Uche,,PORT HARCOURT MAIN
+D0497,Dr. Samuel Nwosu,orthopedics,PORT HARCOURT MAIN
+D0498,Dr. Sarah Onyeka,Obstetrics,LAGOS CENTRAL
+D0499,Dr. Aisha Ojo,Emergency Medicine,
+D0500,Dr. Zainab Nwosu,Family Medicine,
+D0501,Dr. Bola Onyeka,cardiology,ABUJA NORTH
+D0502,Dr. Ada Garba,Neurology,ABUJA NORTH
+D0503,Dr. Ada Ogunleye,,Kano Care
+D0504,Dr. Abdul Johnson,Dermatology,PORT HARCOURT MAIN
+D0505,Dr. Fatima Johnson,Emergency Medicine,Lagos Central
+D0506,Dr. Grace Ogunleye,Radiology,LAGOS CENTRAL
+D0507,Dr. Ngozi Johnson,Dermatology,ABUJA NORTH
+D0508,Dr. Zainab Nwosu,Emergency Medicine,Lagos Central
+D0509,Dr. Samuel Afolabi,cardiology,Abuja North
+D0510,Dr. Aisha Eze,Obstetrics,PORT HARCOURT MAIN
+D0511,Dr. Aisha Musa,cardiology,Lagos Central
+D0512,Dr. David Johnson,Neurology,Lagos Central
+D0513,Dr. Amaka Balogun,general medicine,
+D0514,Dr. Kemi Eze,,Port Harcourt Main
+D0515,Dr. Daniel Usman,Emergency Medicine,Port Harcourt Main
+D0516,Dr. Chinedu Sani,Emergency Medicine,Ibadan West
+D0517,Dr. Hannah Abubakar,orthopedics,Ibadan West
+D0518,Dr. Ada Johnson,,Ibadan West
+D0519,Dr. Victor Usman,Neurology,Abuja North
+D0520,Dr. Yusuf Onyeka,General Medicine,Port Harcourt Main
+D0521,Dr. Emeka Adewale,Neurology,Abuja North
+D0522,Dr. Samuel Ogunleye,Emergency Medicine,PORT HARCOURT MAIN
+D0523,Dr. Emeka Uche,pediatrics,Enugu East
+D0524,Dr. Chinedu Ojo,cardiology,ABUJA NORTH
+D0525,Dr. Fatima Musa,cardiology,Port Harcourt Main
+D0526,Dr. John Adeyemi,Radiology,Abuja North
+D0527,Dr. Tolu Chukwu,cardiology,Lagos Central
+D0528,Dr. Amaka Sani,Obstetrics,ABUJA NORTH
+D0529,Dr. Daniel Abubakar,Orthopedics,
+D0530,Dr. Amaka Ogunleye,Emergency Medicine,Abuja North
+D0531,Dr. Ada Balogun,Cardiology,Port Harcourt Main
+D0532,Dr. Abdul Chukwu,cardiology,
+D0533,Dr. Esther Adewale,dermatology,PORT HARCOURT MAIN
+,Dr. Bola Adewale,Cardiology,ABUJA NORTH
+D0535,Dr. David Eze,,Abuja North
+D0536,Dr. Ngozi Eze,Dermatology,PORT HARCOURT MAIN
+D0537,Dr. Sarah Nwosu,Obstetrics,
+D0538,Dr. Esther Ibrahim,Cardiology,Port Harcourt Main
+D0539,Dr. Fatima Ogunleye,general medicine,
+D0540,Dr. Hannah Sani,orthopedics,Enugu East
+D0541,Dr. Tunde Chukwu,General Medicine,Ibadan West
+D0542,Dr. Grace Ogunleye,,PORT HARCOURT MAIN
+D0543,Dr. Mary Usman,Family Medicine,Abuja North
+D0544,Dr. Daniel Ibrahim,Emergency Medicine,Abuja North
+D0545,Dr. Fatima Adewale,,
+D0546,Dr. Tolu Usman,cardiology,PORT HARCOURT MAIN
+D0547,Dr. Bola Ojo,general medicine,Lagos Central
+D0548,Dr. Sarah Ibrahim,Dermatology,Kano Care
+D0549,Dr. Ibrahim Okafor,orthopedics,Port Harcourt Main
+D0550,Dr. Peter Abubakar,Family Medicine,
+D0551,Dr. Emeka Johnson,,LAGOS CENTRAL
+D0552,Dr. Ibrahim Musa,Dermatology,Kano Care
+D0553,Dr. Michael Johnson,Obstetrics,
+D0554,Dr. Tolu Nwosu,general medicine,Lagos Central
+D0555,Dr. Abdul Nwosu,Orthopedics,Abuja North
+D0556,Dr. Amaka Afolabi,Radiology,Kano Care
+D0557,Dr. Victor Ogunleye,Family Medicine,Abuja North
+D0558,Dr. Zainab Afolabi,Cardiology,ABUJA NORTH
+D0559,Dr. Tolu Adeyemi,dermatology,
+D0560,Dr. Musa Onyeka,orthopedics,Kano Care
+D0561,Dr. Victor Bello,Pediatrics,Lagos Central
+D0562,Dr. Emeka Usman,Orthopedics,LAGOS CENTRAL
+D0563,Dr. Blessing Bello,Obstetrics,
+D0564,Dr. Sarah Chukwu,general medicine,Ibadan West
+D0565,Dr. Daniel Ojo,Neurology,Kano Care
+D0566,Dr. Sarah Ogunleye,Dermatology,LAGOS CENTRAL
+D0567,Dr. Ada Nwosu,,Port Harcourt Main
+D0568,Dr. Hannah Nwosu,orthopedics,PORT HARCOURT MAIN
+D0569,Dr. John Nwosu,Family Medicine,Lagos Central
+D0570,Dr. Amaka Uche,cardiology,Abuja North
+D0571,Dr. Mercy Garba,cardiology,LAGOS CENTRAL
+D0572,Dr. Mercy Uche,dermatology,
+D0573,Dr. David Okafor,Obstetrics,
+D0574,Dr. Ada Eze,Radiology,Enugu East
+D0575,Dr. Michael Ojo,cardiology,LAGOS CENTRAL
+D0576,Dr. Peter Ojo,Pediatrics,Port Harcourt Main
+,Dr. Ngozi Abubakar,general medicine,ABUJA NORTH
+D0578,Dr. Abdul Garba,cardiology,
+D0579,Dr. Tunde Onyeka,Family Medicine,Port Harcourt Main
+D0580,Dr. Ibrahim Afolabi,General Medicine,
+D0581,Dr. Tolu Adewale,general medicine,ABUJA NORTH
+D0582,Dr. Mercy Adeyemi,Cardiology,Ibadan West
+D0583,Dr. John Ogunleye,Emergency Medicine,Abuja North
+D0584,Dr. Yusuf Abubakar,pediatrics,Enugu East
+D0585,Dr. Esther Ogunleye,,Enugu East
+D0586,Dr. Zainab Adeyemi,orthopedics,ABUJA NORTH
+D0587,Dr. Yusuf Adewale,Cardiology,LAGOS CENTRAL
+D0588,Dr. Mary Adewale,pediatrics,Abuja North
+D0589,Dr. Yusuf Nwosu,Obstetrics,ABUJA NORTH
+D0590,Dr. Mary Okafor,Pediatrics,
+D0591,Dr. Amaka Balogun,Family Medicine,Ibadan West
+D0592,Dr. Emeka Adeyemi,pediatrics,Ibadan West
+D0593,Dr. Musa Chukwu,Pediatrics,Enugu East
+D0594,Dr. Peter Ojo,Family Medicine,Lagos Central
+D0595,Dr. Ada Ibrahim,cardiology,PORT HARCOURT MAIN
+D0596,Dr. Zainab Usman,Orthopedics,Kano Care
+D0597,Dr. Michael Adeyemi,Family Medicine,Abuja North
+D0598,Dr. Samuel Eze,cardiology,Ibadan West
+D0599,Dr. Esther Bello,,PORT HARCOURT MAIN
+D0600,Dr. Amaka Eze,Emergency Medicine,
+D0601,Dr. Sarah Eze,Neurology,Port Harcourt Main
+D0602,Dr. Chinedu Abubakar,,Port Harcourt Main
+D0603,Dr. Tunde Ibrahim,General Medicine,Lagos Central
+D0604,Dr. Daniel Musa,Orthopedics,
+D0605,Dr. Bola Adewale,Emergency Medicine,PORT HARCOURT MAIN
+D0606,Dr. Samuel Onyeka,,Abuja North
+D0607,Dr. Kemi Nwosu,orthopedics,
+D0608,Dr. Bola Afolabi,Family Medicine,Enugu East
+D0609,Dr. Zainab Adeyemi,Obstetrics,
+D0610,Dr. Aisha Musa,Family Medicine,Enugu East
+D0611,Dr. Daniel Afolabi,orthopedics,LAGOS CENTRAL
+D0612,Dr. Hannah Onyeka,dermatology,LAGOS CENTRAL
+D0613,Dr. Emeka Nwosu,pediatrics,Lagos Central
+D0614,Dr. Tolu Onyeka,,
+D0615,Dr. Ada Ibrahim,Orthopedics,
+D0616,Dr. Zainab Balogun,general medicine,Port Harcourt Main
+D0617,Dr. Aisha Ojo,Family Medicine,
+D0618,Dr. Victor Adeyemi,,Port Harcourt Main
+D0619,Dr. Sarah Adeyemi,Orthopedics,ABUJA NORTH
+D0620,Dr. Kemi Balogun,Orthopedics,Port Harcourt Main
+D0621,Dr. John Usman,cardiology,Lagos Central
+D0622,Dr. Zainab Sani,orthopedics,
+D0623,Dr. Fatima Garba,Emergency Medicine,Lagos Central
+D0624,Dr. Mary Afolabi,Orthopedics,Kano Care
+D0625,Dr. Zainab Usman,Cardiology,Ibadan West
+D0626,Dr. Grace Bello,Cardiology,Ibadan West
+D0627,Dr. Aisha Adeyemi,Obstetrics,Ibadan West
+D0628,Dr. Yusuf Adewale,Dermatology,Abuja North
+D0629,Dr. Mercy Garba,General Medicine,LAGOS CENTRAL
+D0630,Dr. Kemi Nwosu,general medicine,Enugu East
+D0631,Dr. Musa Ojo,Orthopedics,Kano Care
+D0632,Dr. Kemi Johnson,Dermatology,Enugu East
+D0633,Dr. Aisha Nwosu,orthopedics,Kano Care
+D0634,Dr. Kemi Chukwu,,Ibadan West
+D0635,Dr. Ibrahim Bello,Radiology,
+D0636,Dr. Musa Chukwu,Pediatrics,
+D0637,Dr. Fatima Ibrahim,pediatrics,LAGOS CENTRAL
+D0638,Dr. Hannah Sani,Obstetrics,
+D0639,Dr. Chinedu Adeyemi,cardiology,PORT HARCOURT MAIN
+D0640,Dr. Zainab Nwosu,Orthopedics,Enugu East
+D0641,Dr. Abdul Afolabi,Dermatology,
+D0642,Dr. Victor Uche,dermatology,Port Harcourt Main
+D0643,Dr. Samuel Usman,Family Medicine,
+D0644,Dr. Amaka Usman,Neurology,
+D0645,Dr. Chinedu Afolabi,Family Medicine,Port Harcourt Main
+D0646,Dr. Zainab Garba,Dermatology,ABUJA NORTH
+D0647,Dr. Sarah Chukwu,,
+D0648,Dr. Ada Sani,Cardiology,Abuja North
+D0649,Dr. Yusuf Adewale,,Abuja North
+D0650,Dr. Victor Okafor,general medicine,
+D0651,Dr. Ngozi Johnson,Radiology,PORT HARCOURT MAIN
+D0652,Dr. Abdul Chukwu,Orthopedics,Abuja North
+D0653,Dr. Michael Onyeka,Cardiology,
+D0654,Dr. Samuel Onyeka,pediatrics,Port Harcourt Main
+D0655,Dr. Yusuf Balogun,Emergency Medicine,LAGOS CENTRAL
+D0656,Dr. Bola Eze,Dermatology,LAGOS CENTRAL
+D0657,Dr. Ibrahim Usman,Obstetrics,
+D0658,Dr. Chinedu Onyeka,Orthopedics,Kano Care
+D0659,Dr. Chinedu Johnson,general medicine,Ibadan West
+D0660,Dr. Abdul Adeyemi,Emergency Medicine,Lagos Central
+D0661,Dr. Fatima Okafor,general medicine,Enugu East
+D0662,Dr. Ngozi Sani,Family Medicine,Abuja North
+D0663,Dr. Abdul Nwosu,Cardiology,Port Harcourt Main
+D0664,Dr. Peter Balogun,Radiology,Enugu East
+D0665,Dr. Mary Ojo,General Medicine,
+D0666,Dr. Chinedu Abubakar,,Lagos Central
+D0667,Dr. Ngozi Uche,orthopedics,Lagos Central
+D0668,Dr. David Nwosu,Family Medicine,Ibadan West
+D0669,Dr. Aisha Adewale,General Medicine,ABUJA NORTH
+D0670,Dr. Amaka Musa,Neurology,Ibadan West
+D0671,Dr. Abdul Ibrahim,Obstetrics,Port Harcourt Main
+D0672,Dr. Michael Ojo,Obstetrics,ABUJA NORTH
+D0673,Dr. Zainab Onyeka,orthopedics,LAGOS CENTRAL
+D0674,Dr. Aisha Chukwu,cardiology,ABUJA NORTH
+D0675,Dr. Fatima Ibrahim,Dermatology,Kano Care
+D0676,Dr. Daniel Musa,pediatrics,LAGOS CENTRAL
+D0677,Dr. Zainab Musa,Obstetrics,
+D0678,Dr. Chinedu Uche,Orthopedics,
+D0679,Dr. Samuel Eze,Cardiology,Port Harcourt Main
+D0680,Dr. Aisha Onyeka,Dermatology,Ibadan West
+D0681,Dr. Peter Nwosu,Obstetrics,
+D0682,Dr. Fatima Uche,Neurology,ABUJA NORTH
+D0683,Dr. Victor Adeyemi,general medicine,PORT HARCOURT MAIN
+D0684,Dr. Grace Balogun,,Ibadan West
+D0685,Dr. Chinedu Uche,Orthopedics,
+D0686,Dr. Ngozi Sani,Obstetrics,ABUJA NORTH
+D0687,Dr. Hannah Musa,Dermatology,Port Harcourt Main
+D0688,Dr. Daniel Onyeka,cardiology,Enugu East
+D0689,Dr. Daniel Bello,Neurology,Abuja North
+D0690,Dr. Mercy Bello,Neurology,Port Harcourt Main
+D0691,Dr. Mary Afolabi,general medicine,
+,Dr. Aisha Okafor,Emergency Medicine,Kano Care
+D0693,Dr. Chinedu Afolabi,Radiology,LAGOS CENTRAL
+D0694,Dr. Samuel Balogun,Neurology,
+D0695,Dr. Mercy Usman,Emergency Medicine,Port Harcourt Main
+D0696,Dr. Grace Adewale,orthopedics,
+D0697,Dr. David Eze,orthopedics,LAGOS CENTRAL
+D0698,Dr. Bola Garba,Neurology,ABUJA NORTH
+D0699,Dr. Musa Okafor,,ABUJA NORTH
+D0700,Dr. Hannah Adeyemi,,Abuja North
+D0701,Dr. Mary Sani,Radiology,PORT HARCOURT MAIN
+D0702,Dr. Michael Onyeka,General Medicine,Lagos Central
+D0703,Dr. Sarah Okafor,dermatology,Ibadan West
+D0704,Dr. Esther Johnson,dermatology,
+D0705,Dr. Amaka Chukwu,Family Medicine,LAGOS CENTRAL
+D0706,Dr. Kemi Adeyemi,,Port Harcourt Main
+D0707,Dr. Tolu Balogun,General Medicine,Ibadan West
+D0708,Dr. Blessing Nwosu,Radiology,Ibadan West
+D0709,Dr. Grace Balogun,cardiology,
+D0710,Dr. Mercy Usman,,Kano Care
+D0711,Dr. Yusuf Bello,dermatology,Ibadan West
+D0712,Dr. Ibrahim Musa,,Ibadan West
+D0713,Dr. Ibrahim Bello,,Enugu East
+D0714,Dr. Tunde Ojo,pediatrics,Enugu East
+D0715,Dr. Bola Uche,dermatology,Enugu East
+D0716,Dr. Mercy Usman,Obstetrics,Ibadan West
+D0717,Dr. Daniel Ibrahim,pediatrics,Kano Care
+D0718,Dr. Musa Nwosu,Pediatrics,Lagos Central
+D0719,Dr. Sarah Eze,Orthopedics,Enugu East
+D0720,Dr. Aisha Nwosu,,
+D0721,Dr. Esther Onyeka,Radiology,ABUJA NORTH
+D0722,Dr. Esther Johnson,pediatrics,LAGOS CENTRAL
+D0723,Dr. Mary Nwosu,Orthopedics,LAGOS CENTRAL
+D0724,Dr. Blessing Ogunleye,,Lagos Central
+D0725,Dr. Tolu Bello,,Port Harcourt Main
+D0726,Dr. Grace Uche,Dermatology,Lagos Central
+D0727,Dr. Victor Ogunleye,Orthopedics,Kano Care
+D0728,Dr. Peter Ogunleye,Neurology,
+D0729,Dr. Esther Onyeka,Family Medicine,
+D0730,Dr. Emeka Johnson,General Medicine,ABUJA NORTH
+D0731,Dr. Mercy Usman,general medicine,Ibadan West
+D0732,Dr. Victor Okafor,orthopedics,PORT HARCOURT MAIN
+D0733,Dr. Hannah Ogunleye,Family Medicine,ABUJA NORTH
+D0734,Dr. Emeka Chukwu,General Medicine,Lagos Central
+D0735,Dr. Daniel Garba,Family Medicine,LAGOS CENTRAL
+D0736,Dr. Zainab Afolabi,Family Medicine,PORT HARCOURT MAIN
+D0737,Dr. Fatima Usman,General Medicine,
+D0738,Dr. Sarah Balogun,dermatology,PORT HARCOURT MAIN
+D0739,Dr. Grace Onyeka,General Medicine,PORT HARCOURT MAIN
+D0740,Dr. Ibrahim Ibrahim,general medicine,
+D0741,Dr. Zainab Eze,Neurology,LAGOS CENTRAL
+D0742,Dr. Emeka Uche,Orthopedics,Ibadan West
+D0743,Dr. Mercy Johnson,Neurology,ABUJA NORTH
+D0744,Dr. Fatima Balogun,dermatology,PORT HARCOURT MAIN
+D0745,Dr. Yusuf Sani,,Lagos Central
+D0746,Dr. Ada Nwosu,Radiology,
+D0747,Dr. Abdul Abubakar,Emergency Medicine,LAGOS CENTRAL
+D0748,Dr. Zainab Afolabi,cardiology,Abuja North
+D0749,Dr. Hannah Balogun,pediatrics,Abuja North
+D0750,Dr. Tolu Okafor,,LAGOS CENTRAL
+D0751,Dr. Grace Garba,pediatrics,PORT HARCOURT MAIN
+D0752,Dr. Bola Garba,Neurology,Kano Care
+D0753,Dr. Samuel Sani,Emergency Medicine,Lagos Central
+D0754,Dr. Michael Abubakar,cardiology,Abuja North
+D0755,Dr. Musa Usman,general medicine,LAGOS CENTRAL
+D0756,Dr. Mercy Bello,Family Medicine,Kano Care
+D0757,Dr. Mary Adeyemi,Obstetrics,
+D0758,Dr. Fatima Musa,General Medicine,Abuja North
+D0759,Dr. Emeka Uche,Emergency Medicine,ABUJA NORTH
+D0760,Dr. Zainab Uche,Orthopedics,
+D0761,Dr. Yusuf Ogunleye,,
+D0762,Dr. Mercy Abubakar,General Medicine,Abuja North
+D0763,Dr. Michael Eze,General Medicine,Abuja North
+D0764,Dr. Emeka Ogunleye,cardiology,Port Harcourt Main
+D0765,Dr. John Adewale,Obstetrics,
+D0766,Dr. Tunde Onyeka,Pediatrics,Ibadan West
+D0767,Dr. Fatima Afolabi,Radiology,
+D0768,Dr. Aisha Balogun,Neurology,Abuja North
+D0769,Dr. Grace Ojo,Obstetrics,Abuja North
+D0770,Dr. Tolu Sani,,Port Harcourt Main
+D0771,Dr. Mary Musa,cardiology,
+D0772,Dr. John Abubakar,orthopedics,ABUJA NORTH
+D0773,Dr. Esther Ibrahim,General Medicine,Lagos Central
+D0774,Dr. Bola Adewale,Pediatrics,ABUJA NORTH
+D0775,Dr. Emeka Ibrahim,Radiology,Port Harcourt Main
+D0776,Dr. Blessing Balogun,Emergency Medicine,Ibadan West
+D0777,Dr. Mercy Garba,,Abuja North
+D0778,Dr. Kemi Bello,,Kano Care
+D0779,Dr. Zainab Sani,orthopedics,
+D0780,Dr. Mary Adeyemi,Orthopedics,ABUJA NORTH
+D0781,Dr. David Adeyemi,Cardiology,Kano Care
+D0782,Dr. Mary Okafor,,Lagos Central
+D0783,Dr. Ngozi Adeyemi,Radiology,Kano Care
+D0784,Dr. Esther Uche,Neurology,Ibadan West
+D0785,Dr. Grace Musa,General Medicine,Lagos Central
+D0786,Dr. Kemi Sani,Radiology,Port Harcourt Main
+D0787,Dr. Samuel Bello,Orthopedics,
+D0788,Dr. Ada Onyeka,orthopedics,LAGOS CENTRAL
+D0789,Dr. Grace Onyeka,Cardiology,Port Harcourt Main
+D0790,Dr. Aisha Abubakar,dermatology,ABUJA NORTH
+D0791,Dr. Sarah Onyeka,Neurology,PORT HARCOURT MAIN
+D0792,Dr. Peter Ogunleye,pediatrics,ABUJA NORTH
+D0793,Dr. Abdul Adewale,Pediatrics,LAGOS CENTRAL
+D0794,Dr. Daniel Garba,dermatology,ABUJA NORTH
+D0795,Dr. Mercy Adeyemi,Orthopedics,
+D0796,Dr. John Eze,general medicine,Ibadan West
+D0797,Dr. Musa Afolabi,Neurology,LAGOS CENTRAL
+D0798,Dr. Daniel Abubakar,Neurology,Port Harcourt Main
+D0799,Dr. Mary Sani,Pediatrics,ABUJA NORTH
+D0800,Dr. Abdul Ibrahim,General Medicine,Kano Care
+D0801,Dr. Abdul Adewale,Radiology,Abuja North
+D0802,Dr. Victor Garba,Pediatrics,Lagos Central
+D0803,Dr. Abdul Ibrahim,general medicine,Enugu East
+D0804,Dr. John Garba,general medicine,Port Harcourt Main
+D0805,Dr. Tolu Balogun,,ABUJA NORTH
+D0806,Dr. Mary Abubakar,,Kano Care
+D0807,Dr. Zainab Chukwu,Cardiology,Lagos Central
+D0808,Dr. Tolu Abubakar,orthopedics,LAGOS CENTRAL
+D0809,Dr. Samuel Balogun,general medicine,PORT HARCOURT MAIN
+D0810,Dr. Fatima Ibrahim,General Medicine,Abuja North
+D0811,Dr. Amaka Eze,orthopedics,
+D0812,Dr. Victor Chukwu,Orthopedics,PORT HARCOURT MAIN
+D0813,Dr. Grace Uche,Obstetrics,Port Harcourt Main
+D0814,Dr. John Onyeka,Neurology,Abuja North
+D0815,Dr. Yusuf Ogunleye,dermatology,Ibadan West
+D0816,Dr. Ngozi Afolabi,Pediatrics,
+D0817,Dr. Victor Okafor,Neurology,Kano Care
+D0818,Dr. Mary Afolabi,Pediatrics,
+D0819,Dr. Amaka Nwosu,,Abuja North
+D0820,Dr. Ada Bello,pediatrics,Kano Care
+D0821,Dr. Tolu Onyeka,orthopedics,
+D0822,Dr. Zainab Garba,Radiology,
+D0823,Dr. Abdul Bello,Emergency Medicine,Lagos Central
+D0824,Dr. Daniel Sani,Family Medicine,PORT HARCOURT MAIN
+D0825,Dr. Abdul Bello,,Abuja North
+D0826,Dr. Sarah Okafor,Dermatology,Kano Care
+D0827,Dr. Yusuf Ibrahim,,LAGOS CENTRAL
+D0828,Dr. Daniel Chukwu,Pediatrics,
+D0829,Dr. Ngozi Ibrahim,pediatrics,Lagos Central
+D0830,Dr. Tunde Ojo,Orthopedics,Abuja North
+D0831,Dr. Daniel Usman,Pediatrics,ABUJA NORTH
+D0832,Dr. Ngozi Chukwu,Cardiology,Port Harcourt Main
+D0833,Dr. Peter Johnson,General Medicine,Kano Care
+D0834,Dr. Bola Onyeka,Family Medicine,ABUJA NORTH
+D0835,Dr. Musa Eze,Orthopedics,Enugu East
+D0836,Dr. Ngozi Ogunleye,Cardiology,
+D0837,Dr. Hannah Onyeka,Neurology,PORT HARCOURT MAIN
+D0838,Dr. Samuel Garba,,Ibadan West
+D0839,Dr. Kemi Garba,orthopedics,Port Harcourt Main
+D0840,Dr. Victor Sani,Radiology,Ibadan West
+D0841,Dr. Esther Ibrahim,General Medicine,Port Harcourt Main
+D0842,Dr. Bola Nwosu,Obstetrics,
+D0843,Dr. Musa Afolabi,Radiology,
+D0844,Dr. Mercy Garba,pediatrics,Kano Care
+D0845,Dr. Tolu Balogun,orthopedics,Ibadan West
+D0846,Dr. Sarah Adeyemi,pediatrics,
+D0847,Dr. Kemi Johnson,Pediatrics,PORT HARCOURT MAIN
+D0848,Dr. Ada Adeyemi,orthopedics,LAGOS CENTRAL
+D0849,Dr. Grace Johnson,general medicine,Ibadan West
+D0850,Dr. Yusuf Abubakar,General Medicine,LAGOS CENTRAL
+D0851,Dr. Esther Eze,Dermatology,LAGOS CENTRAL
+D0852,Dr. Zainab Ogunleye,Cardiology,Abuja North
+D0853,Dr. Samuel Johnson,pediatrics,Ibadan West
+D0854,Dr. Samuel Ibrahim,dermatology,Ibadan West
+D0855,Dr. Emeka Eze,,PORT HARCOURT MAIN
+D0856,Dr. Zainab Eze,Radiology,Enugu East
+D0857,Dr. Daniel Okafor,Emergency Medicine,Enugu East
+D0858,Dr. Kemi Musa,Family Medicine,Ibadan West
+D0859,Dr. Samuel Balogun,Pediatrics,Abuja North
+D0860,Dr. Tunde Chukwu,Emergency Medicine,Kano Care
+D0861,Dr. Sarah Ibrahim,Family Medicine,Port Harcourt Main
+D0862,Dr. Michael Bello,Family Medicine,Port Harcourt Main
+D0863,Dr. Ngozi Balogun,,Abuja North
+D0864,Dr. Peter Onyeka,Dermatology,Abuja North
+D0865,Dr. Hannah Usman,,
+D0866,Dr. Victor Eze,pediatrics,Kano Care
+D0867,Dr. Grace Uche,,ABUJA NORTH
+D0868,Dr. Grace Nwosu,Radiology,Enugu East
+D0869,Dr. Chinedu Sani,,Enugu East
+D0870,Dr. Michael Uche,cardiology,Ibadan West
+D0871,Dr. Ngozi Adewale,general medicine,Abuja North
+D0872,Dr. Samuel Onyeka,Pediatrics,PORT HARCOURT MAIN
+D0873,Dr. Fatima Nwosu,Neurology,
+D0874,Dr. Peter Abubakar,orthopedics,PORT HARCOURT MAIN
+D0875,Dr. Grace Nwosu,Radiology,Abuja North
+D0876,Dr. John Garba,Emergency Medicine,LAGOS CENTRAL
+D0877,Dr. Blessing Abubakar,pediatrics,Port Harcourt Main
+D0878,Dr. Blessing Ogunleye,Pediatrics,Kano Care
+D0879,Dr. Esther Usman,dermatology,
+D0880,Dr. Emeka Musa,pediatrics,
+D0881,Dr. Esther Usman,orthopedics,Kano Care
+D0882,Dr. Victor Musa,Orthopedics,Abuja North
+D0883,Dr. Musa Ojo,Cardiology,LAGOS CENTRAL
+D0884,Dr. Ibrahim Adewale,Emergency Medicine,ABUJA NORTH
+D0885,Dr. Aisha Onyeka,Dermatology,Abuja North
+D0886,Dr. Peter Eze,Orthopedics,Ibadan West
+D0887,Dr. Aisha Usman,Emergency Medicine,Lagos Central
+D0888,Dr. Grace Ojo,dermatology,PORT HARCOURT MAIN
+D0889,Dr. Fatima Johnson,Neurology,Lagos Central
+D0890,Dr. Tolu Afolabi,Emergency Medicine,
+D0891,Dr. Tolu Balogun,Cardiology,ABUJA NORTH
+D0892,Dr. Victor Afolabi,orthopedics,PORT HARCOURT MAIN
+D0893,Dr. Peter Nwosu,Cardiology,
+D0894,Dr. Aisha Balogun,Emergency Medicine,Port Harcourt Main
+D0895,Dr. Samuel Afolabi,,Ibadan West
+D0896,Dr. Yusuf Ojo,dermatology,Abuja North
+D0897,Dr. Bola Onyeka,Neurology,PORT HARCOURT MAIN
+D0898,Dr. Bola Ibrahim,Emergency Medicine,ABUJA NORTH
+D0899,Dr. Ibrahim Ojo,Radiology,ABUJA NORTH
+D0900,Dr. Bola Sani,Obstetrics,Lagos Central
+D0901,Dr. Ibrahim Ibrahim,,
+D0902,Dr. Yusuf Sani,Radiology,LAGOS CENTRAL
+D0903,Dr. Daniel Usman,Family Medicine,
+D0904,Dr. Tunde Okafor,Radiology,
+D0905,Dr. Samuel Adeyemi,General Medicine,Kano Care
+D0906,Dr. Yusuf Abubakar,Obstetrics,Enugu East
+D0907,Dr. Mercy Usman,Orthopedics,PORT HARCOURT MAIN
+D0908,Dr. Kemi Adeyemi,pediatrics,LAGOS CENTRAL
+D0909,Dr. Bola Adewale,dermatology,Ibadan West
+D0910,Dr. Kemi Balogun,pediatrics,Lagos Central
+D0911,Dr. Hannah Ojo,Pediatrics,Port Harcourt Main
+D0912,Dr. Aisha Okafor,Family Medicine,Port Harcourt Main
+D0913,Dr. Emeka Eze,pediatrics,Kano Care
+D0914,Dr. Yusuf Balogun,,Lagos Central
+D0915,Dr. Peter Johnson,cardiology,
+D0916,Dr. Blessing Okafor,Obstetrics,Enugu East
+D0917,Dr. Emeka Onyeka,Neurology,Kano Care
+D0918,Dr. Esther Abubakar,orthopedics,
+D0919,Dr. Ibrahim Okafor,dermatology,
+D0920,Dr. Hannah Onyeka,general medicine,ABUJA NORTH
+D0921,Dr. Peter Abubakar,Emergency Medicine,PORT HARCOURT MAIN
+D0922,Dr. Mercy Onyeka,Orthopedics,Enugu East
+D0923,Dr. Aisha Eze,general medicine,PORT HARCOURT MAIN
+D0924,Dr. Yusuf Balogun,Cardiology,Abuja North
+D0925,Dr. Abdul Ojo,Neurology,Port Harcourt Main
+D0926,Dr. Ngozi Ojo,Neurology,
+D0927,Dr. Samuel Uche,dermatology,Enugu East
+D0928,Dr. Peter Eze,pediatrics,ABUJA NORTH
+D0929,Dr. Samuel Uche,Cardiology,Port Harcourt Main
+D0930,Dr. Mary Abubakar,general medicine,Kano Care
+,Dr. Mary Chukwu,Emergency Medicine,Abuja North
+D0932,Dr. Ibrahim Uche,Orthopedics,Kano Care
+D0933,Dr. David Usman,general medicine,ABUJA NORTH
+D0934,Dr. Peter Ibrahim,general medicine,Abuja North
+D0935,Dr. Bola Ogunleye,,LAGOS CENTRAL
+D0936,Dr. Bola Abubakar,Family Medicine,LAGOS CENTRAL
+D0937,Dr. Aisha Balogun,dermatology,Port Harcourt Main
+D0938,Dr. John Nwosu,cardiology,Port Harcourt Main
+D0939,Dr. John Afolabi,Radiology,Kano Care
+D0940,Dr. Peter Usman,,
+D0941,Dr. Amaka Garba,orthopedics,Port Harcourt Main
+D0942,Dr. Musa Eze,cardiology,
+D0943,Dr. Peter Ogunleye,,Lagos Central
+D0944,Dr. Blessing Musa,Pediatrics,ABUJA NORTH
+D0945,Dr. Aisha Afolabi,Obstetrics,Ibadan West
+D0946,Dr. Yusuf Abubakar,cardiology,Kano Care
+D0947,Dr. Blessing Bello,Family Medicine,Ibadan West
+D0948,Dr. Zainab Usman,Neurology,
+D0949,Dr. John Sani,Pediatrics,Ibadan West
+D0950,Dr. Amaka Adeyemi,Neurology,
+D0951,Dr. Hannah Bello,Obstetrics,LAGOS CENTRAL
+D0952,Dr. Amaka Usman,orthopedics,ABUJA NORTH
+D0953,Dr. Daniel Abubakar,general medicine,ABUJA NORTH
+D0954,Dr. Emeka Balogun,Family Medicine,Enugu East
+D0955,Dr. Victor Okafor,,Abuja North
+D0956,Dr. Victor Ibrahim,Emergency Medicine,Ibadan West
+D0957,Dr. Kemi Musa,Cardiology,Port Harcourt Main
+D0958,Dr. Emeka Sani,general medicine,Enugu East
+D0959,Dr. Chinedu Abubakar,Orthopedics,Ibadan West
+D0960,Dr. Bola Abubakar,Pediatrics,Ibadan West
+D0961,Dr. Kemi Bello,,Enugu East
+D0962,Dr. Ibrahim Adewale,Orthopedics,LAGOS CENTRAL
+D0963,Dr. Samuel Adewale,dermatology,Lagos Central
+D0964,Dr. Emeka Chukwu,Dermatology,Enugu East
+D0965,Dr. Esther Musa,Family Medicine,Kano Care
+D0966,Dr. Yusuf Garba,Neurology,Abuja North
+D0967,Dr. Hannah Usman,Obstetrics,Kano Care
+D0968,Dr. Abdul Johnson,orthopedics,Ibadan West
+D0969,Dr. Mary Eze,Cardiology,LAGOS CENTRAL
+D0970,Dr. Sarah Ibrahim,Neurology,Enugu East
+D0971,Dr. Grace Okafor,cardiology,PORT HARCOURT MAIN
+D0972,Dr. Victor Ogunleye,Dermatology,Port Harcourt Main
+D0973,Dr. Kemi Adeyemi,Emergency Medicine,PORT HARCOURT MAIN
+D0974,Dr. Michael Adeyemi,Pediatrics,
+D0975,Dr. Abdul Uche,Family Medicine,
+D0976,Dr. Kemi Bello,general medicine,
+D0977,Dr. Sarah Bello,Emergency Medicine,Enugu East
+D0978,Dr. Yusuf Afolabi,Family Medicine,Kano Care
+D0979,Dr. Zainab Nwosu,Orthopedics,Ibadan West
+,Dr. Yusuf Uche,Emergency Medicine,Abuja North
+D0981,Dr. Kemi Eze,Orthopedics,PORT HARCOURT MAIN
+D0982,Dr. Emeka Ojo,general medicine,Kano Care
+D0983,Dr. Amaka Adewale,,
+D0984,Dr. Amaka Ojo,cardiology,Lagos Central
+D0985,Dr. Tunde Balogun,Cardiology,
+D0986,Dr. Abdul Abubakar,Orthopedics,
+D0987,Dr. Ibrahim Okafor,,Lagos Central
+D0988,Dr. Mary Balogun,orthopedics,ABUJA NORTH
+D0989,Dr. Peter Okafor,,Ibadan West
+D0990,Dr. Samuel Usman,Obstetrics,Abuja North
+D0991,Dr. Zainab Musa,Family Medicine,Lagos Central
+D0992,Dr. Ada Ojo,Orthopedics,
+D0993,Dr. Ada Bello,Emergency Medicine,Enugu East
+D0994,Dr. Amaka Ibrahim,,Enugu East
+D0995,Dr. Blessing Eze,Radiology,Port Harcourt Main
+D0996,Dr. Michael Adeyemi,,
+D0997,Dr. Peter Garba,Pediatrics,Enugu East
+D0998,Dr. Abdul Okafor,pediatrics,PORT HARCOURT MAIN
+D0999,Dr. Hannah Garba,cardiology,ABUJA NORTH
+D1000,Dr. Tunde Ibrahim,dermatology,
+D1001,Dr. Zainab Bello,dermatology,PORT HARCOURT MAIN
+D1002,Dr. Sarah Balogun,Obstetrics,LAGOS CENTRAL
+D1003,Dr. Hannah Abubakar,dermatology,
+D1004,Dr. John Ibrahim,cardiology,Enugu East
+D1005,Dr. Tunde Usman,Pediatrics,Ibadan West
+D1006,Dr. Chinedu Uche,Radiology,Port Harcourt Main
+D1007,Dr. David Nwosu,Pediatrics,PORT HARCOURT MAIN
+D1008,Dr. David Onyeka,pediatrics,Abuja North
+D1009,Dr. Sarah Johnson,Orthopedics,
+D1010,Dr. Bola Usman,orthopedics,Kano Care
+D1011,Dr. Tolu Afolabi,Family Medicine,PORT HARCOURT MAIN
+D1012,Dr. Amaka Uche,,
+D1013,Dr. Victor Usman,Pediatrics,
+D1014,Dr. Zainab Abubakar,Neurology,ABUJA NORTH
+D1015,Dr. Esther Okafor,Radiology,LAGOS CENTRAL
+D1016,Dr. Sarah Eze,cardiology,
+D1017,Dr. Ada Bello,Orthopedics,Ibadan West
+D1018,Dr. John Musa,Family Medicine,LAGOS CENTRAL
+D1019,Dr. Sarah Adewale,pediatrics,Ibadan West
+D1020,Dr. Tunde Sani,,LAGOS CENTRAL
+D1021,Dr. Fatima Chukwu,General Medicine,PORT HARCOURT MAIN
+D1022,Dr. Kemi Onyeka,pediatrics,Lagos Central
+D1023,Dr. Zainab Johnson,General Medicine,LAGOS CENTRAL
+D1024,Dr. Chinedu Onyeka,Radiology,
+D1025,Dr. Ada Onyeka,cardiology,LAGOS CENTRAL
+D1026,Dr. Victor Balogun,,Kano Care
+,Dr. Mercy Bello,Family Medicine,Lagos Central
+D1028,Dr. Yusuf Okafor,Neurology,ABUJA NORTH
+D1029,Dr. Chinedu Adewale,Orthopedics,Kano Care
+D1030,Dr. Michael Garba,orthopedics,Kano Care
+D1031,Dr. Ngozi Afolabi,general medicine,Port Harcourt Main
+D1032,Dr. Abdul Abubakar,dermatology,Abuja North
+D1033,Dr. Tunde Adeyemi,Orthopedics,Lagos Central
+,Dr. Fatima Adeyemi,dermatology,
+D1035,Dr. Bola Uche,dermatology,Port Harcourt Main
+D1036,Dr. Abdul Bello,Radiology,
+D1037,Dr. Abdul Bello,Dermatology,
+D1038,Dr. Hannah Eze,Pediatrics,ABUJA NORTH
+D1039,Dr. Amaka Sani,Radiology,
+D1040,Dr. Emeka Usman,Obstetrics,LAGOS CENTRAL
+D1041,Dr. Esther Sani,Neurology,PORT HARCOURT MAIN
+D1042,Dr. Aisha Abubakar,general medicine,
+D1043,Dr. Musa Nwosu,Radiology,Ibadan West
+D1044,Dr. Abdul Ojo,Neurology,
+D1045,Dr. Abdul Sani,General Medicine,Ibadan West
+D1046,Dr. Amaka Onyeka,Radiology,
+D1047,Dr. Ada Musa,Orthopedics,Kano Care
+D1048,Dr. Ada Ibrahim,orthopedics,Enugu East
+D1049,Dr. Zainab Chukwu,general medicine,Lagos Central
+D1050,Dr. Yusuf Abubakar,pediatrics,PORT HARCOURT MAIN
+D1051,Dr. Daniel Adeyemi,Pediatrics,Port Harcourt Main
+D1052,Dr. Bola Afolabi,Family Medicine,
+D1053,Dr. Blessing Adeyemi,,Enugu East
+D1054,Dr. Grace Sani,Obstetrics,PORT HARCOURT MAIN
+D1055,Dr. Musa Eze,Pediatrics,Enugu East
+D1056,Dr. Tunde Nwosu,orthopedics,ABUJA NORTH
+D1057,Dr. Zainab Nwosu,Obstetrics,LAGOS CENTRAL
+D1058,Dr. Ada Bello,cardiology,ABUJA NORTH
+D1059,Dr. Zainab Onyeka,Neurology,Port Harcourt Main
+D1060,Dr. Bola Afolabi,general medicine,
+D1061,Dr. Samuel Uche,General Medicine,Port Harcourt Main
+D1062,Dr. Sarah Balogun,Emergency Medicine,
+D1063,Dr. Michael Balogun,Emergency Medicine,Enugu East
+D1064,Dr. Daniel Ojo,dermatology,LAGOS CENTRAL
+D1065,Dr. Aisha Abubakar,dermatology,Enugu East
+D1066,Dr. Esther Ibrahim,Cardiology,
+D1067,Dr. Ngozi Bello,cardiology,LAGOS CENTRAL
+D1068,Dr. Ada Chukwu,Orthopedics,Ibadan West
+D1069,Dr. Sarah Onyeka,Radiology,LAGOS CENTRAL
+D1070,Dr. Mercy Adewale,Family Medicine,Abuja North
+D1071,Dr. David Chukwu,pediatrics,Abuja North
+D1072,Dr. Tolu Ibrahim,dermatology,Lagos Central
+D1073,Dr. Bola Garba,Cardiology,ABUJA NORTH
+D1074,Dr. David Adewale,General Medicine,Ibadan West
+D1075,Dr. Hannah Ogunleye,Dermatology,Abuja North
+D1076,Dr. Grace Adewale,dermatology,LAGOS CENTRAL
+D1077,Dr. Ngozi Ojo,Obstetrics,ABUJA NORTH
+D1078,Dr. Grace Adewale,orthopedics,Ibadan West
+D1079,Dr. Blessing Nwosu,pediatrics,Enugu East
+,Dr. Zainab Ojo,Dermatology,
+D1081,Dr. Esther Adewale,general medicine,ABUJA NORTH
+D1082,Dr. Mercy Balogun,Radiology,
+D1083,Dr. Zainab Ojo,general medicine,Kano Care
+D1084,Dr. Emeka Chukwu,Obstetrics,Abuja North
+D1085,Dr. Emeka Nwosu,General Medicine,
+D1086,Dr. Ada Ibrahim,dermatology,PORT HARCOURT MAIN
+D1087,Dr. Esther Adeyemi,Obstetrics,
+D1088,Dr. Mary Onyeka,,LAGOS CENTRAL
+D1089,Dr. Tolu Musa,Neurology,Enugu East
+D1090,Dr. Chinedu Musa,Neurology,LAGOS CENTRAL
+D1091,Dr. Yusuf Usman,Emergency Medicine,ABUJA NORTH
+D1092,Dr. Michael Garba,Cardiology,
+D1093,Dr. Ibrahim Garba,General Medicine,Abuja North
+D1094,Dr. Michael Balogun,general medicine,
+D1095,Dr. Mercy Chukwu,General Medicine,Lagos Central
+D1096,Dr. John Bello,Cardiology,Lagos Central
+D1097,Dr. Daniel Ogunleye,general medicine,Kano Care
+D1098,Dr. Emeka Chukwu,Obstetrics,
+D1099,Dr. Blessing Ojo,pediatrics,
+D1100,Dr. Fatima Uche,Cardiology,PORT HARCOURT MAIN
+D1101,Dr. Victor Nwosu,Dermatology,
+D1102,Dr. Musa Ibrahim,pediatrics,ABUJA NORTH
+D1103,Dr. Aisha Garba,Dermatology,Ibadan West
+D1104,Dr. John Onyeka,Emergency Medicine,
+D1105,Dr. Mercy Eze,Pediatrics,Abuja North
+D1106,Dr. Aisha Uche,Radiology,Enugu East
+D1107,Dr. Victor Balogun,General Medicine,
+D1108,Dr. Blessing Eze,Family Medicine,Abuja North
+D1109,Dr. Yusuf Eze,orthopedics,
+D1110,Dr. Victor Uche,Obstetrics,Port Harcourt Main
+D1111,Dr. Fatima Adeyemi,orthopedics,
+D1112,Dr. Zainab Chukwu,dermatology,Lagos Central
+D1113,Dr. Esther Afolabi,,
+D1114,Dr. Ibrahim Bello,Family Medicine,Lagos Central
+D1115,Dr. Esther Ogunleye,,PORT HARCOURT MAIN
+D1116,Dr. Chinedu Adeyemi,Family Medicine,
+D1117,Dr. Bola Ogunleye,Dermatology,PORT HARCOURT MAIN
+D1118,Dr. Chinedu Usman,Radiology,
+D1119,Dr. Victor Chukwu,Neurology,LAGOS CENTRAL
+D1120,Dr. Michael Afolabi,Neurology,Lagos Central
+D1121,Dr. Amaka Musa,Family Medicine,PORT HARCOURT MAIN
+D1122,Dr. Aisha Adeyemi,Obstetrics,Ibadan West
+D1123,Dr. Yusuf Musa,,PORT HARCOURT MAIN
+D1124,Dr. Zainab Okafor,orthopedics,LAGOS CENTRAL
+D1125,Dr. Yusuf Chukwu,Orthopedics,
+D1126,Dr. Tolu Adeyemi,Cardiology,Ibadan West
+D1127,Dr. Mary Johnson,orthopedics,Enugu East
+D1128,Dr. Mercy Chukwu,cardiology,PORT HARCOURT MAIN
+D1129,Dr. Victor Eze,General Medicine,Ibadan West
+D1130,Dr. Zainab Adewale,,PORT HARCOURT MAIN
+D1131,Dr. Amaka Musa,Neurology,Kano Care
+D1132,Dr. Michael Sani,Neurology,LAGOS CENTRAL
+D1133,Dr. Ibrahim Ibrahim,orthopedics,Abuja North
+D1134,Dr. Chinedu Afolabi,dermatology,ABUJA NORTH
+D1135,Dr. Samuel Onyeka,Family Medicine,Enugu East
+D1136,Dr. Fatima Chukwu,Neurology,Enugu East
+D1137,Dr. Daniel Balogun,Family Medicine,
+D1138,Dr. Mercy Garba,general medicine,Port Harcourt Main
+D1139,Dr. Ada Usman,Cardiology,Abuja North
+D1140,Dr. Yusuf Garba,Dermatology,Abuja North
+D1141,Dr. Yusuf Musa,dermatology,ABUJA NORTH
+D1142,Dr. Peter Abubakar,cardiology,Abuja North
+D1143,Dr. Ibrahim Chukwu,dermatology,ABUJA NORTH
+D1144,Dr. Mary Onyeka,dermatology,PORT HARCOURT MAIN
+D1145,Dr. John Sani,,Ibadan West
+D1146,Dr. Aisha Uche,dermatology,Enugu East
+D1147,Dr. Bola Okafor,,Enugu East
+D1148,Dr. Musa Usman,Family Medicine,Enugu East
+D1149,Dr. Emeka Ogunleye,Radiology,PORT HARCOURT MAIN
+D1150,Dr. Sarah Johnson,cardiology,Port Harcourt Main
+D1151,Dr. Samuel Ibrahim,general medicine,Abuja North
+D1152,Dr. Ibrahim Ibrahim,,
+D1153,Dr. David Afolabi,General Medicine,
+D1154,Dr. Chinedu Eze,Orthopedics,ABUJA NORTH
+D1155,Dr. Aisha Afolabi,,
+D1156,Dr. Emeka Eze,,
+D1157,Dr. Emeka Uche,Emergency Medicine,ABUJA NORTH
+D1158,Dr. Zainab Eze,Radiology,
+D1159,Dr. Amaka Adewale,cardiology,
+D1160,Dr. Samuel Ojo,orthopedics,Port Harcourt Main
+D1161,Dr. Zainab Garba,Radiology,Abuja North
+D1162,Dr. Mercy Sani,Emergency Medicine,Abuja North
+D1163,Dr. Michael Eze,Obstetrics,Port Harcourt Main
+D1164,Dr. Musa Adewale,pediatrics,Port Harcourt Main
+D1165,Dr. Kemi Abubakar,Emergency Medicine,Abuja North
+D1166,Dr. Hannah Garba,general medicine,Enugu East
+D1167,Dr. Samuel Bello,Neurology,Enugu East
+D1168,Dr. Tolu Garba,Obstetrics,Abuja North
+D1169,Dr. Samuel Adewale,Obstetrics,Enugu East
+D1170,Dr. Emeka Abubakar,Neurology,PORT HARCOURT MAIN
+D1171,Dr. David Usman,general medicine,
+,Dr. Blessing Sani,orthopedics,
+D1173,Dr. Yusuf Adeyemi,cardiology,ABUJA NORTH
+D1174,Dr. Tunde Usman,,
+D1175,Dr. Bola Usman,Pediatrics,Ibadan West
+D1176,Dr. David Onyeka,dermatology,Port Harcourt Main
+D1177,Dr. Ngozi Adeyemi,general medicine,LAGOS CENTRAL
+D1178,Dr. Blessing Ogunleye,pediatrics,Lagos Central
+D1179,Dr. Abdul Garba,Neurology,Ibadan West
+D1180,Dr. John Uche,cardiology,PORT HARCOURT MAIN
+D1181,Dr. Daniel Eze,Family Medicine,LAGOS CENTRAL
+D1182,Dr. Daniel Ogunleye,Pediatrics,LAGOS CENTRAL
+D1183,Dr. Chinedu Abubakar,Family Medicine,LAGOS CENTRAL
+D1184,Dr. Mary Musa,pediatrics,Port Harcourt Main
+D1185,Dr. Musa Adewale,Radiology,LAGOS CENTRAL
+D1186,Dr. Blessing Sani,Family Medicine,
+D1187,Dr. Amaka Balogun,Pediatrics,LAGOS CENTRAL
+D1188,Dr. Mercy Abubakar,Obstetrics,
+D1189,Dr. Mary Abubakar,Cardiology,Abuja North
+D1190,Dr. Emeka Usman,pediatrics,LAGOS CENTRAL
+D1191,Dr. Grace Johnson,cardiology,Enugu East
+D1192,Dr. Blessing Bello,General Medicine,PORT HARCOURT MAIN
+D1193,Dr. Esther Ibrahim,pediatrics,Port Harcourt Main
+D1194,Dr. Grace Uche,Dermatology,
+D1195,Dr. John Garba,dermatology,Abuja North
+D1196,Dr. Mary Afolabi,dermatology,Lagos Central
+D1197,Dr. Ada Okafor,pediatrics,Lagos Central
+D1198,Dr. Blessing Usman,Dermatology,ABUJA NORTH
+D1199,Dr. Samuel Sani,Radiology,PORT HARCOURT MAIN
+D1200,Dr. Yusuf Sani,pediatrics,Port Harcourt Main
+D1201,Dr. Peter Balogun,General Medicine,LAGOS CENTRAL
+D1202,Dr. Emeka Ojo,Family Medicine,Enugu East
+D1203,Dr. Amaka Abubakar,Orthopedics,Abuja North
+D1204,Dr. Zainab Onyeka,Neurology,
+D1205,Dr. Samuel Johnson,,
+D1206,Dr. Chinedu Onyeka,Emergency Medicine,Lagos Central
+D1207,Dr. Daniel Bello,General Medicine,
+D1208,Dr. Daniel Eze,cardiology,Lagos Central
+D1209,Dr. Grace Abubakar,General Medicine,Enugu East
+D1210,Dr. Esther Adewale,dermatology,ABUJA NORTH
+D1211,Dr. Tunde Nwosu,Obstetrics,Ibadan West
+D1212,Dr. Abdul Ogunleye,,Abuja North
+D1213,Dr. Samuel Chukwu,general medicine,Enugu East
+D1214,Dr. Samuel Bello,Neurology,Kano Care
+D1215,Dr. Michael Uche,General Medicine,Port Harcourt Main
+D1216,Dr. Musa Adeyemi,Neurology,Lagos Central
+D1217,Dr. Musa Uche,cardiology,Port Harcourt Main
+D1218,Dr. Tunde Chukwu,General Medicine,Abuja North
+D1219,Dr. Yusuf Eze,dermatology,Port Harcourt Main
+D1220,Dr. Ibrahim Okafor,Cardiology,ABUJA NORTH
+D1221,Dr. Ada Abubakar,Orthopedics,Kano Care
+D1222,Dr. Ada Sani,Family Medicine,Ibadan West
+D1223,Dr. Mary Abubakar,Neurology,Enugu East
+D1224,Dr. Mary Eze,pediatrics,Port Harcourt Main
+D1225,Dr. Mercy Abubakar,,Kano Care
+D1226,Dr. Blessing Okafor,Obstetrics,ABUJA NORTH
+D1227,Dr. Esther Afolabi,Radiology,
+D1228,Dr. Sarah Uche,cardiology,PORT HARCOURT MAIN
+D1229,Dr. John Ogunleye,General Medicine,PORT HARCOURT MAIN
+D1230,Dr. Zainab Nwosu,Family Medicine,PORT HARCOURT MAIN
+D1231,Dr. Zainab Abubakar,Cardiology,PORT HARCOURT MAIN
+D1232,Dr. Ibrahim Adewale,Cardiology,Kano Care
+D1233,Dr. Hannah Garba,Dermatology,Enugu East
+D1234,Dr. Sarah Adewale,Dermatology,PORT HARCOURT MAIN
+D1235,Dr. David Ogunleye,Neurology,Abuja North
+D1236,Dr. Mary Sani,Emergency Medicine,Kano Care
+D1237,Dr. Samuel Ojo,Obstetrics,
+D1238,Dr. Tunde Bello,,Kano Care
+D1239,Dr. Ngozi Adewale,Emergency Medicine,Enugu East
+D1240,Dr. Emeka Garba,,Kano Care
+D1241,Dr. Hannah Garba,,Ibadan West
+D1242,Dr. Amaka Balogun,pediatrics,LAGOS CENTRAL
+D1243,Dr. Emeka Adewale,Obstetrics,LAGOS CENTRAL
+D1244,Dr. Emeka Okafor,,Kano Care
+,Dr. Tunde Johnson,Dermatology,PORT HARCOURT MAIN
+D1246,Dr. John Ogunleye,Radiology,PORT HARCOURT MAIN
+D1247,Dr. Esther Johnson,Orthopedics,PORT HARCOURT MAIN
+D1248,Dr. Abdul Uche,General Medicine,Kano Care
+D1249,Dr. Chinedu Uche,cardiology,Abuja North
+D1250,Dr. Emeka Adewale,general medicine,ABUJA NORTH
+D1251,Dr. Daniel Onyeka,dermatology,LAGOS CENTRAL
+D1252,Dr. Tolu Balogun,Cardiology,Ibadan West
+D1253,Dr. Abdul Musa,pediatrics,ABUJA NORTH
+D1254,Dr. Musa Bello,Orthopedics,Kano Care
+D1255,Dr. Yusuf Adeyemi,general medicine,Ibadan West
+D1256,Dr. Amaka Afolabi,Neurology,
+D1257,Dr. Yusuf Garba,Obstetrics,Lagos Central
+D1258,Dr. Chinedu Sani,cardiology,Ibadan West
+D1259,Dr. Victor Onyeka,pediatrics,Lagos Central
+D1260,Dr. Musa Adeyemi,Radiology,Port Harcourt Main
+D1261,Dr. Victor Adeyemi,Obstetrics,Kano Care
+D1262,Dr. Bola Adewale,Emergency Medicine,
+D1263,Dr. Mercy Sani,Family Medicine,ABUJA NORTH
+D1264,Dr. Ibrahim Nwosu,Radiology,
+D1265,Dr. Ngozi Chukwu,Cardiology,Kano Care
+D1266,Dr. Michael Uche,Cardiology,
+D1267,Dr. Zainab Chukwu,Family Medicine,Enugu East
+D1268,Dr. Yusuf Afolabi,general medicine,
+D1269,Dr. Amaka Chukwu,pediatrics,Abuja North
+D1270,Dr. Michael Okafor,Emergency Medicine,Lagos Central
+D1271,Dr. Ibrahim Ojo,pediatrics,PORT HARCOURT MAIN
+D1272,Dr. Peter Uche,Cardiology,PORT HARCOURT MAIN
+D1273,Dr. Ngozi Adewale,Dermatology,
+D1274,Dr. Amaka Ibrahim,Emergency Medicine,Ibadan West
+D1275,Dr. Mary Ojo,Neurology,Abuja North
+D1276,Dr. Peter Garba,,ABUJA NORTH
+D1277,Dr. Abdul Chukwu,dermatology,
+D1278,Dr. Sarah Musa,,ABUJA NORTH
+D1279,Dr. Grace Abubakar,Family Medicine,Abuja North
+D1280,Dr. Tunde Okafor,general medicine,ABUJA NORTH
+D1281,Dr. Tolu Usman,Dermatology,Port Harcourt Main
+D1282,Dr. Emeka Ibrahim,Neurology,PORT HARCOURT MAIN
+D1283,Dr. Yusuf Bello,Orthopedics,
+D1284,Dr. Yusuf Musa,,PORT HARCOURT MAIN
+D1285,Dr. Victor Adeyemi,Neurology,Kano Care
+D1286,Dr. Sarah Uche,pediatrics,Lagos Central
+D1287,Dr. Esther Garba,cardiology,
+D1288,Dr. Tolu Ibrahim,Radiology,ABUJA NORTH
+D1289,Dr. Bola Abubakar,Emergency Medicine,Ibadan West
+D1290,Dr. Daniel Usman,,Enugu East
+D1291,Dr. Kemi Uche,,Lagos Central
+D1292,Dr. Amaka Musa,Emergency Medicine,Kano Care
+D1293,Dr. Tolu Musa,Family Medicine,Lagos Central
+D1294,Dr. John Okafor,Emergency Medicine,Lagos Central
+D1295,Dr. Mercy Chukwu,Cardiology,Port Harcourt Main
+D1296,Dr. Fatima Musa,dermatology,Kano Care
+D1297,Dr. Michael Okafor,,Port Harcourt Main
+D1298,Dr. Sarah Usman,Neurology,Port Harcourt Main
+D1299,Dr. Ada Adeyemi,general medicine,Kano Care
+D1300,Dr. David Chukwu,Emergency Medicine,Kano Care
+D1301,Dr. Sarah Ojo,Orthopedics,Enugu East
+D1302,Dr. Tunde Sani,Radiology,LAGOS CENTRAL
+D1303,Dr. Zainab Ibrahim,orthopedics,Enugu East
+D1304,Dr. Musa Chukwu,Obstetrics,
+D1305,Dr. Amaka Bello,general medicine,Ibadan West
+D1306,Dr. Sarah Johnson,Cardiology,LAGOS CENTRAL
+D1307,Dr. Bola Ojo,general medicine,Ibadan West
+,Dr. Bola Afolabi,Dermatology,ABUJA NORTH
+D1309,Dr. Blessing Abubakar,Emergency Medicine,Lagos Central
+D1310,Dr. Hannah Eze,Cardiology,Lagos Central
+D1311,Dr. Blessing Musa,Dermatology,LAGOS CENTRAL
+D1312,Dr. Abdul Afolabi,orthopedics,Enugu East
+D1313,Dr. David Ojo,General Medicine,ABUJA NORTH
+D1314,Dr. Tunde Johnson,orthopedics,Abuja North
+D1315,Dr. Daniel Usman,general medicine,Lagos Central
+D1316,Dr. Zainab Balogun,orthopedics,Port Harcourt Main
+D1317,Dr. Sarah Sani,Family Medicine,Ibadan West
+D1318,Dr. Musa Adeyemi,,LAGOS CENTRAL
+D1319,Dr. Daniel Afolabi,Neurology,ABUJA NORTH
+D1320,Dr. Mary Johnson,Family Medicine,Ibadan West
+D1321,Dr. Aisha Afolabi,Obstetrics,
+D1322,Dr. Aisha Ibrahim,dermatology,Kano Care
+D1323,Dr. Peter Ojo,dermatology,Lagos Central
+D1324,Dr. Yusuf Balogun,orthopedics,PORT HARCOURT MAIN
+D1325,Dr. Grace Okafor,dermatology,
+D1326,Dr. John Afolabi,Dermatology,Enugu East
+D1327,Dr. Bola Onyeka,Neurology,LAGOS CENTRAL
+D1328,Dr. Hannah Bello,General Medicine,
+D1329,Dr. Ngozi Ojo,Orthopedics,Port Harcourt Main
+D1330,Dr. Mercy Okafor,dermatology,LAGOS CENTRAL
+D1331,Dr. Daniel Usman,general medicine,Kano Care
+D1332,Dr. Esther Adewale,Neurology,Kano Care
+D1333,Dr. Grace Musa,dermatology,
+D1334,Dr. Samuel Abubakar,Neurology,PORT HARCOURT MAIN
+D1335,Dr. Ada Usman,orthopedics,PORT HARCOURT MAIN
+D1336,Dr. Abdul Adewale,Pediatrics,Ibadan West
+D1337,Dr. Musa Okafor,orthopedics,Ibadan West
+D1338,Dr. Grace Musa,orthopedics,PORT HARCOURT MAIN
+D1339,Dr. Michael Adeyemi,cardiology,Enugu East
+D1340,Dr. Yusuf Onyeka,Dermatology,Enugu East
+D1341,Dr. Tunde Adewale,cardiology,
+,Dr. Kemi Ojo,Neurology,
+D1343,Dr. Kemi Okafor,,Kano Care
+D1344,Dr. Blessing Bello,Radiology,Enugu East
+D1345,Dr. Hannah Uche,dermatology,
+D1346,Dr. Grace Ibrahim,Orthopedics,LAGOS CENTRAL
+D1347,Dr. Fatima Ibrahim,Cardiology,LAGOS CENTRAL
+D1348,Dr. Esther Eze,cardiology,Abuja North
+D1349,Dr. Kemi Bello,orthopedics,Enugu East
+D1350,Dr. Aisha Uche,,Kano Care
+D1351,Dr. Sarah Ibrahim,Neurology,ABUJA NORTH
+D1352,Dr. Mercy Ogunleye,Emergency Medicine,Enugu East
+D1353,Dr. Musa Adewale,,LAGOS CENTRAL
+D1354,Dr. Bola Eze,Emergency Medicine,LAGOS CENTRAL
+D1355,Dr. Michael Bello,pediatrics,Abuja North
+D1356,Dr. Ibrahim Johnson,dermatology,Enugu East
+D1357,Dr. Fatima Johnson,Orthopedics,
+D1358,Dr. Mercy Nwosu,orthopedics,Lagos Central
+D1359,Dr. Ada Garba,General Medicine,Abuja North
+D1360,Dr. Samuel Garba,Neurology,
+D1361,Dr. Ada Chukwu,Emergency Medicine,Lagos Central
+D1362,Dr. Michael Adeyemi,Emergency Medicine,Ibadan West
+D1363,Dr. Daniel Balogun,Dermatology,Port Harcourt Main
+D1364,Dr. Peter Afolabi,,
+D1365,Dr. Fatima Adewale,,Lagos Central
+D1366,Dr. Ibrahim Garba,General Medicine,Enugu East
+D1367,Dr. Ngozi Garba,Dermatology,Kano Care
+D1368,Dr. John Ogunleye,General Medicine,Enugu East
+D1369,Dr. Mary Adeyemi,Dermatology,Lagos Central
+D1370,Dr. Ibrahim Afolabi,Obstetrics,Enugu East
+D1371,Dr. Esther Garba,dermatology,
+D1372,Dr. Sarah Okafor,Dermatology,Ibadan West
+D1373,Dr. Aisha Musa,dermatology,
+D1374,Dr. Blessing Usman,Orthopedics,
+D1375,Dr. Aisha Eze,Family Medicine,LAGOS CENTRAL
+D1376,Dr. Daniel Usman,Orthopedics,PORT HARCOURT MAIN
+D1377,Dr. Tunde Johnson,cardiology,
+D1378,Dr. Musa Ogunleye,Neurology,Lagos Central
+D1379,Dr. Daniel Nwosu,Emergency Medicine,
+D1380,Dr. Peter Ibrahim,Neurology,LAGOS CENTRAL
+D1381,Dr. John Uche,Obstetrics,Ibadan West
+D1382,Dr. Aisha Nwosu,cardiology,LAGOS CENTRAL
+D1383,Dr. Abdul Onyeka,Dermatology,LAGOS CENTRAL
+D1384,Dr. Emeka Onyeka,,
+D1385,Dr. Tunde Ogunleye,cardiology,Lagos Central
+D1386,Dr. Blessing Abubakar,pediatrics,Kano Care
+D1387,Dr. Esther Musa,cardiology,Lagos Central
+D1388,Dr. Musa Afolabi,general medicine,Ibadan West
+D1389,Dr. Mercy Johnson,Obstetrics,Lagos Central
+D1390,Dr. Amaka Johnson,,LAGOS CENTRAL
+D1391,Dr. Samuel Musa,dermatology,Abuja North
+D1392,Dr. Peter Ogunleye,cardiology,Enugu East
+D1393,Dr. Amaka Nwosu,pediatrics,Abuja North
+D1394,Dr. Musa Adewale,,Ibadan West
+D1395,Dr. Sarah Abubakar,Cardiology,PORT HARCOURT MAIN
+D1396,Dr. Fatima Onyeka,Emergency Medicine,Port Harcourt Main
+D1397,Dr. Abdul Ojo,cardiology,
+D1398,Dr. Tolu Garba,Neurology,Lagos Central
+D1399,Dr. Zainab Sani,pediatrics,
+D1400,Dr. Chinedu Eze,dermatology,Port Harcourt Main
+D1401,Dr. Daniel Usman,Orthopedics,Ibadan West
+D1402,Dr. Zainab Adeyemi,Neurology,ABUJA NORTH
+D1403,Dr. Ibrahim Abubakar,Dermatology,PORT HARCOURT MAIN
+D1404,Dr. Chinedu Sani,cardiology,Enugu East
+D1405,Dr. Esther Ojo,Cardiology,Port Harcourt Main
+D1406,Dr. Peter Johnson,General Medicine,Abuja North
+D1407,Dr. Ngozi Chukwu,General Medicine,LAGOS CENTRAL
+D1408,Dr. David Uche,General Medicine,Port Harcourt Main
+D1409,Dr. Ada Afolabi,Family Medicine,Kano Care
+D1410,Dr. Daniel Abubakar,Radiology,Kano Care
+D1411,Dr. Tunde Balogun,Pediatrics,Lagos Central
+D1412,Dr. Ada Ogunleye,Obstetrics,Abuja North
+D1413,Dr. Yusuf Garba,dermatology,ABUJA NORTH
+D1414,Dr. Ngozi Uche,dermatology,LAGOS CENTRAL
+D1415,Dr. Esther Ojo,Emergency Medicine,ABUJA NORTH
+D1416,Dr. Amaka Johnson,Dermatology,Abuja North
+D1417,Dr. Abdul Okafor,Obstetrics,PORT HARCOURT MAIN
+D1418,Dr. Samuel Abubakar,Neurology,LAGOS CENTRAL
+D1419,Dr. John Bello,orthopedics,ABUJA NORTH
+D1420,Dr. Bola Ojo,cardiology,
+D1421,Dr. Fatima Ogunleye,Family Medicine,Port Harcourt Main
+D1422,Dr. David Ibrahim,Obstetrics,
+D1423,Dr. David Johnson,cardiology,ABUJA NORTH
+D1424,Dr. Amaka Chukwu,orthopedics,ABUJA NORTH
+D1425,Dr. Samuel Onyeka,general medicine,Lagos Central
+D1426,Dr. Grace Musa,,PORT HARCOURT MAIN
+D1427,Dr. Peter Onyeka,Dermatology,Kano Care
+D1428,Dr. Musa Balogun,Cardiology,Ibadan West
+D1429,Dr. Bola Afolabi,Obstetrics,
+D1430,Dr. Yusuf Afolabi,,PORT HARCOURT MAIN
+D1431,Dr. Yusuf Garba,Neurology,Lagos Central
+D1432,Dr. Michael Balogun,Obstetrics,Enugu East
+D1433,Dr. Abdul Garba,Family Medicine,ABUJA NORTH
+D1434,Dr. Michael Ojo,pediatrics,
+D1435,Dr. Bola Abubakar,Neurology,PORT HARCOURT MAIN
+D1436,Dr. Ibrahim Abubakar,Cardiology,Port Harcourt Main
+D1437,Dr. Hannah Ibrahim,Pediatrics,LAGOS CENTRAL
+D1438,Dr. Bola Ojo,Family Medicine,LAGOS CENTRAL
+D1439,Dr. Ada Chukwu,,
+D1440,Dr. Mercy Bello,,LAGOS CENTRAL
+D1441,Dr. Chinedu Usman,Pediatrics,Ibadan West
+D1442,Dr. Ngozi Uche,Family Medicine,
+D1443,Dr. Ibrahim Uche,Pediatrics,Abuja North
+D1444,Dr. Bola Adeyemi,orthopedics,Port Harcourt Main
+D1445,Dr. Fatima Ibrahim,Cardiology,Abuja North
+D1446,Dr. Victor Nwosu,,ABUJA NORTH
+D1447,Dr. Sarah Usman,Radiology,PORT HARCOURT MAIN
+D1448,Dr. Hannah Uche,cardiology,Kano Care
+D1449,Dr. Michael Uche,,
+D1450,Dr. Daniel Uche,,PORT HARCOURT MAIN
+D1451,Dr. Esther Johnson,Orthopedics,Lagos Central
+D1452,Dr. Mary Adeyemi,Dermatology,Lagos Central
+D1453,Dr. Mercy Adewale,Emergency Medicine,Port Harcourt Main
+D1454,Dr. Musa Usman,Cardiology,LAGOS CENTRAL
+D1455,Dr. Grace Ibrahim,,Enugu East
+D1456,Dr. Sarah Ibrahim,Cardiology,
+D1457,Dr. Bola Afolabi,General Medicine,
+,Dr. Musa Adewale,Emergency Medicine,
+D1459,Dr. Kemi Garba,Neurology,Kano Care
+D1460,Dr. Grace Eze,Family Medicine,
+D1461,Dr. Emeka Usman,Orthopedics,
+D1462,Dr. Blessing Garba,Cardiology,Enugu East
+D1463,Dr. Tunde Chukwu,orthopedics,Port Harcourt Main
+D1464,Dr. Ada Ibrahim,Radiology,Kano Care
+D1465,Dr. Chinedu Abubakar,dermatology,ABUJA NORTH
+D1466,Dr. Kemi Chukwu,,ABUJA NORTH
+D1467,Dr. Chinedu Nwosu,Orthopedics,LAGOS CENTRAL
+D1468,Dr. Mercy Ibrahim,,Enugu East
+D1469,Dr. Mary Ogunleye,General Medicine,Kano Care
+D1470,Dr. Bola Uche,Pediatrics,Kano Care
+D1471,Dr. John Ojo,Pediatrics,
+D1472,Dr. Peter Eze,General Medicine,LAGOS CENTRAL
+D1473,Dr. Aisha Uche,,Kano Care
+D1474,Dr. Emeka Afolabi,dermatology,
+D1475,Dr. Michael Ojo,Emergency Medicine,ABUJA NORTH
+D1476,Dr. David Bello,Neurology,Kano Care
+D1477,Dr. Michael Abubakar,dermatology,PORT HARCOURT MAIN
+D1478,Dr. Abdul Abubakar,Cardiology,Ibadan West
+D1479,Dr. David Onyeka,pediatrics,
+D1480,Dr. Kemi Johnson,general medicine,PORT HARCOURT MAIN
+D1481,Dr. Daniel Afolabi,general medicine,Lagos Central
+D1482,Dr. Amaka Adeyemi,Cardiology,
+D1483,Dr. Amaka Eze,Obstetrics,
+D1484,Dr. Victor Balogun,pediatrics,Kano Care
+D1485,Dr. Ada Usman,Pediatrics,Port Harcourt Main
+D1486,Dr. Abdul Afolabi,Radiology,
+D1487,Dr. Emeka Abubakar,pediatrics,Port Harcourt Main
+D1488,Dr. Ngozi Chukwu,Family Medicine,Kano Care
+D1489,Dr. Fatima Uche,Cardiology,
+D1490,Dr. Ibrahim Bello,general medicine,LAGOS CENTRAL
+D1491,Dr. Peter Afolabi,General Medicine,Lagos Central
+D1492,Dr. Esther Afolabi,Orthopedics,Abuja North
+D1493,Dr. Mercy Okafor,Pediatrics,LAGOS CENTRAL
+D1494,Dr. Samuel Okafor,orthopedics,
+D1495,Dr. Mary Balogun,,Abuja North
+D1496,Dr. Aisha Ogunleye,cardiology,Ibadan West
+D1497,Dr. Ngozi Ojo,Obstetrics,
+D1498,Dr. Zainab Onyeka,,
+D1499,Dr. Peter Eze,general medicine,
+D1500,Dr. Ada Adeyemi,orthopedics,ABUJA NORTH
