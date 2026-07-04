@@ -28,9 +28,9 @@ GROUP BY branch
 ORDER BY doctor_count DESC;
 
 -- Correct No Show entries in appointments
-UPDATE appointments
-SET appointment_status = 'No Show'
-WHERE appointment_status = 'No-Show';
+-- UPDATE appointments
+-- SET appointment_status = 'No Show'
+-- WHERE appointment_status = 'No-Show';
 
 -- Total appointments
 SELECT COUNT(*) AS total_appointments
@@ -45,7 +45,7 @@ ORDER BY appointment_count DESC;
 -- Most common reason for visit
 SELECT reason_for_visit, COUNT(*) AS visit_count
 FROM appointments
-WHERE reason_for_visit != 'Unknown'
+WHERE reason_for_visit != 'Unknown' 
 GROUP BY reason_for_visit
 ORDER BY visit_count DESC
 LIMIT 1;
