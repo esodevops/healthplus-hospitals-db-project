@@ -27,11 +27,6 @@ FROM healthplus.doctors
 GROUP BY branch
 ORDER BY doctor_count DESC;
 
--- Correct No Show entries in appointments
--- UPDATE healthplus.appointments
--- SET appointment_status = 'No Show'
--- WHERE appointment_status = 'No-Show';
-
 -- Total appointments
 SELECT COUNT(*) AS total_appointments
 FROM healthplus.appointments;
