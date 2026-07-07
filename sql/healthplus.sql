@@ -39,8 +39,8 @@ ORDER BY appointment_count DESC;
 
 -- Most common reason for visit
 SELECT reason_for_visit, COUNT(*) AS visit_count
-FROM healthplus.appointments
-WHERE reason_for_visit != 'Unknown'
+FROM appointments
+WHERE reason_for_visit != 'Unknown' 
 GROUP BY reason_for_visit
 ORDER BY visit_count DESC
 LIMIT 1;
