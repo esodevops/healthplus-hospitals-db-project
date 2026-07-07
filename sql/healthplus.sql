@@ -27,11 +27,6 @@ FROM doctors
 GROUP BY branch
 ORDER BY doctor_count DESC;
 
--- Correct No Show entries in appointments
--- UPDATE appointments
--- SET appointment_status = 'No Show'
--- WHERE appointment_status = 'No-Show';
-
 -- Total appointments
 SELECT COUNT(*) AS total_appointments
 FROM appointments;
