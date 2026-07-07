@@ -7,33 +7,33 @@ FROM patients;
 
 -- Patients by city
 SELECT city, COUNT(*) AS patient_count
-FROM patients
+FROM healthplus.patients
 GROUP BY city
 ORDER BY patient_count DESC;
 
 -- Average age
 SELECT AVG(age) AS average_age
-FROM patients;
+FROM healthplus.patients;
 
 -- Doctors by specialty
 SELECT specialty, COUNT(*) AS doctor_count
-FROM doctors
+FROM healthplus.doctors
 GROUP BY specialty
 ORDER BY doctor_count DESC;
 
 -- Doctors by branch
 SELECT branch, COUNT(*) AS doctor_count
-FROM doctors
+FROM healthplus.doctors
 GROUP BY branch
 ORDER BY doctor_count DESC;
 
 -- Total appointments
 SELECT COUNT(*) AS total_appointments
-FROM appointments;
+FROM healthplus.appointments;
 
 -- Appointment status
 SELECT appointment_status, COUNT(*) AS appointment_count
-FROM appointments
+FROM healthplus.appointments
 GROUP BY appointment_status
 ORDER BY appointment_count DESC;
 
@@ -47,10 +47,10 @@ LIMIT 1;
 
 -- Revenue collected
 SELECT SUM(amount_paid) AS total_revenue
-FROM billing;
+FROM healthplus.billing;
 
 -- Revenue by payment method
 SELECT payment_method, SUM(amount_charged) AS revenue
-FROM billing
+FROM healthplus.billing
 GROUP BY payment_method
 ORDER BY revenue DESC;
