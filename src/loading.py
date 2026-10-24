@@ -4,6 +4,7 @@ Run from the project root with: python -m src.loading
 """
 
 import os
+from pathlib import Path
 
 import pandas as pd
 import psycopg2
@@ -12,8 +13,21 @@ from psycopg2 import sql
 from sqlalchemy import create_engine, text
 from sqlalchemy.engine import URL
 
-from src.extraction import extract_data
+from src.transform import transform_data
+from src.quality import check_data_quality
 from src.ingestion import PROJECT_ROOT
+
+
+def save_cleaned_data(data, output_dir=None):
+    """Save each cleaned table as a CSV file."""
+    if output_dir is None:
+        output_dir = PROJECT_ROOT / "data" / "cleaned_data"
+    else:
+        output_dir = Path(output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    for name, table in data.items():
+        table.to_csv(output_dir / f"{name}_cleaned.csv", index=False)
 
 
 def loading_data(data=None, engine=None, if_exists="replace"):
@@ -25,7 +39,11 @@ def loading_data(data=None, engine=None, if_exists="replace"):
     if if_exists not in ("fail", "replace", "append"):
         raise ValueError("if_exists must be fail, replace, or append")
     if data is None:
-        data = extract_data()
+        data = transform_data()
+        check_data_quality(data)
+        save_cleaned_data(data)
+    else:
+        check_data_quality(data)
 
     owns_engine = engine is None
     if owns_engine:
