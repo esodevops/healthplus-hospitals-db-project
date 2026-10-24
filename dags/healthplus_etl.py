@@ -5,6 +5,7 @@ from datetime import timedelta
 from pathlib import Path
 from dotenv import load_dotenv
 import certifi
+import pandas as pd
 import pendulum
 from airflow.sdk import DAG
 from airflow.providers.smtp.notifications.smtp import send_smtp_notification
@@ -14,24 +15,60 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
 
 
+# Tasks run separately, so save their results for the next task to read.
+STAGING_DIR = PROJECT_ROOT / "data" / "staging"
+
+
 def ingestion():
     from src.ingestion import data_ingestion
-    return data_ingestion()
+
+    data = data_ingestion()
+    raw_dir = STAGING_DIR / "raw"
+    raw_dir.mkdir(parents=True, exist_ok=True)
+    for name, table in data.items():
+        table.to_csv(raw_dir / f"{name}.csv", index=False)
 
 
-def transformation(data=None):
+def transformation():
+    from src.ingestion import data_ingestion
     from src.transform import transform_data
-    return transform_data(data)
+    from src.loading import save_cleaned_data
+
+    data = data_ingestion(STAGING_DIR / "raw")
+    cleaned_data = transform_data(data)
+    save_cleaned_data(cleaned_data, STAGING_DIR / "cleaned")
 
 
-def quality(data):
+def read_cleaned_data():
+    """Read the CSV files written by the transformation task."""
+    cleaned_dir = STAGING_DIR / "cleaned"
+    # Keep phone numbers as text so leading zeros are preserved.
+    patients = pd.read_csv(
+        cleaned_dir / "patients_cleaned.csv", dtype={"phone_number": str}
+    )
+    appointments = pd.read_csv(cleaned_dir / "appointments_cleaned.csv")
+    billing = pd.read_csv(cleaned_dir / "billing_cleaned.csv")
+    doctors = pd.read_csv(cleaned_dir / "doctors_cleaned.csv")
+    return {
+        "patients": patients,
+        "appointments": appointments,
+        "billing": billing,
+        "doctors": doctors,
+    }
+
+
+def quality():
     from src.quality import check_data_quality
-    return check_data_quality(data)
+
+    data = read_cleaned_data()
+    check_data_quality(data)
 
 
-def loading(data):
+def loading():
     from src.loading import loading_data, save_cleaned_data
     from src.quality import check_data_quality
+
+    data = read_cleaned_data()
     check_data_quality(data)
     save_cleaned_data(data)
     return loading_data(data)
@@ -75,7 +112,7 @@ with DAG(
     schedule=None,  # Use None for manual execution
     catchup=False,
     tags=["healthplus", "etl"],
-    max_active_runs=0,  # Runs share the same staging and output files.
+    max_active_runs=1,  # Runs share the same staging and output files.
 ) as dag:
 
     ingestion_task = PythonOperator(

@@ -1,3 +1,4 @@
+# Python cache files
 __pycache__/
 *.py[cod]
 *$py.class
@@ -5,8 +6,32 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Environment Variables
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables and local credentials
 .env
+.env.*
+!.env.example
+
+# Airflow runtime files: databases, logs, and generated configuration
+/airflow/
+/airflows/
+*.log
+*.pid
+
+# Intermediate CSV files created by the DAG tasks
+/data/staging/
+
+# Python test and build output
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
 
 # VS Code
 .vscode/
