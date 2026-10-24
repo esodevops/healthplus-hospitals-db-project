@@ -1,5 +1,23 @@
+# Run Python code inside Jupyter notebooks.
 ipykernel==7.3.0
+
+# Read CSV files, clean data, and work with tables.
 pandas==3.0.3
+
+# Connect Python to a PostgreSQL database.
 psycopg2-binary
+
+# Create database connections and load Pandas tables into PostgreSQL.
 sqlalchemy
+
+# Load settings, such as database credentials, from a .env file.
 python-dotenv
+
+# Schedule and run ingestion, transformation, and database loading tasks.
+apache-airflow==3.3.0
+
+# Send email notifications when an Airflow DAG run fails.
+apache-airflow-providers-smtp==3.0.2
+
+# Provide trusted certificates for secure connections, including SMTP.
+certifi==2026.7.22
