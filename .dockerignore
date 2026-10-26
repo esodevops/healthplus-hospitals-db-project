@@ -1,0 +1,9 @@
+.git
+.env
+.env.*
+venv
+.venv
+airflow
+data
+notebooks
+__pycache__

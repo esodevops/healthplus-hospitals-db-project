@@ -81,6 +81,10 @@ Appointments connect patients and doctors through `patient_id` and `doctor_id`. 
 
 ## Getting started
 
+For a Docker-based Airflow pipeline using this project's existing DAG and Python
+modules, follow the [step-by-step Airflow and Docker guide](docs/airflow-docker.md).
+It includes build, startup, login, execution, verification, and shutdown commands.
+
 ### Prerequisites
 
 - Python 3.10 or later
